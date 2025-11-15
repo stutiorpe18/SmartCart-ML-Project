@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Gender,Age,City,Segment,Store_Location,Product_ID,Product_Name,Category,Price,Quantity,Total,Payment_Method,Day,Date
+C177,Neha,Male,34,Aurangabad,Premium,Store_C,P635,Beverages_Item_13,Beverages,182,4,728,Card,Monday,2025-09-29
+C148,Isha,Female,30,Nashik,Regular,Store_A,P464,Beverages_Item_16,Beverages,92,4,368,Wallet,Monday,2025-09-15
+C179,Isha,Female,30,Nashik,Budget,Store_D,P979,Electronics_Item_3,Electronics,325,4,1300,Wallet,Saturday,2025-09-27
+C100,Neha,Male,36,Nashik,Premium,Store_B,P391,Beverages_Item_9,Beverages,588,2,1176,Card,Friday,2025-11-07
+C167,Riya,Female,54,Pune,Premium,Store_A,P397,Grocery_Item_4,Grocery,670,5,3350,Wallet,Thursday,2025-10-02
+C163,Karan,Female,47,Nashik,Premium,Store_C,P707,Electronics_Item_14,Electronics,500,5,2500,Card,Sunday,2025-10-19
+C112,Arjun,Male,24,Aurangabad,Premium,Store_B,P733,Grocery_Item_18,Grocery,534,5,2670,Wallet,Thursday,2025-09-11
+C134,Vikram,Female,39,Aurangabad,Budget,Store_C,P752,Beverages_Item_3,Beverages,1000,4,4000,Card,Saturday,2025-10-25
+C127,Riya,Male,24,Nagpur,Regular,Store_B,P346,Electronics_Item_37,Electronics,562,1,562,Wallet,Thursday,2025-09-18
+C179,Isha,Male,21,Pune,Budget,Store_A,P580,Snacks_Item_7,Snacks,170,3,510,Card,Friday,2025-09-26
+C103,Vikram,Male,18,Pune,Regular,Store_D,P495,Electronics_Item_47,Electronics,165,5,825,Cash,Saturday,2025-09-27
+C144,Vikram,Female,50,Nagpur,Budget,Store_A,P842,Personal Care_Item_30,Personal Care,739,4,2956,Card,Tuesday,2025-09-16
+C178,Aarav,Female,31,Aurangabad,Budget,Store_C,P572,Personal Care_Item_11,Personal Care,283,1,283,UPI,Wednesday,2025-09-17
+C119,Raj,Male,55,Pune,Budget,Store_D,P960,Beverages_Item_9,Beverages,99,1,99,Cash,Sunday,2025-10-19
+C145,Karan,Male,32,Aurangabad,Regular,Store_B,P254,Personal Care_Item_50,Personal Care,87,1,87,Card,Sunday,2025-10-12
+C103,Isha,Male,39,Pune,Regular,Store_C,P911,Beverages_Item_38,Beverages,636,1,636,Wallet,Sunday,2025-10-12
+C112,Aarav,Female,27,Jalna,Premium,Store_D,P419,Snacks_Item_4,Snacks,799,4,3196,Wallet,Saturday,2025-10-04
+C157,Karan,Male,20,Nashik,Regular,Store_D,P887,Grocery_Item_29,Grocery,852,1,852,Card,Friday,2025-10-17
+C194,Isha,Female,36,Nashik,Premium,Store_A,P789,Stationery_Item_4,Stationery,444,2,888,Wallet,Tuesday,2025-09-16
+C167,Aarav,Male,21,Nagpur,Premium,Store_D,P674,Snacks_Item_27,Snacks,92,3,276,Card,Saturday,2025-10-11
+C179,Sneha,Female,46,Nagpur,Regular,Store_B,P932,Grocery_Item_43,Grocery,898,5,4490,UPI,Thursday,2025-10-09
+C122,Riya,Female,49,Jalna,Regular,Store_D,P303,Electronics_Item_29,Electronics,549,3,1647,Card,Thursday,2025-10-16
+C136,Mahima,Male,34,Aurangabad,Premium,Store_A,P983,Personal Care_Item_45,Personal Care,43,3,129,Card,Sunday,2025-09-21
+C198,Isha,Female,57,Mumbai,Premium,Store_D,P408,Electronics_Item_45,Electronics,945,5,4725,UPI,Friday,2025-09-26
+C198,Riya,Male,23,Jalna,Premium,Store_D,P656,Snacks_Item_21,Snacks,985,1,985,Wallet,Friday,2025-10-03
+C195,Neha,Male,36,Jalna,Budget,Store_C,P782,Beverages_Item_6,Beverages,261,3,783,Cash,Sunday,2025-10-26
+C152,Aarav,Female,38,Jalna,Premium,Store_B,P805,Grocery_Item_27,Grocery,271,2,542,Wallet,Tuesday,2025-10-21
+C118,Karan,Female,57,Mumbai,Regular,Store_C,P452,Grocery_Item_45,Grocery,83,4,332,Wallet,Thursday,2025-09-18
+C166,Aarav,Female,23,Pune,Premium,Store_A,P227,Snacks_Item_22,Snacks,448,4,1792,UPI,Saturday,2025-10-11
+C118,Mahima,Male,58,Nashik,Regular,Store_D,P964,Electronics_Item_3,Electronics,866,3,2598,Card,Sunday,2025-09-21
+C128,Vikram,Female,60,Pune,Budget,Store_B,P391,Grocery_Item_15,Grocery,981,2,1962,Wallet,Monday,2025-10-20
+C132,Aarav,Male,53,Pune,Budget,Store_B,P576,Electronics_Item_46,Electronics,761,1,761,Cash,Wednesday,2025-10-22
+C145,Sneha,Female,49,Mumbai,Budget,Store_D,P152,Stationery_Item_24,Stationery,115,3,345,UPI,Friday,2025-10-31
+C104,Riya,Male,20,Mumbai,Premium,Store_D,P390,Stationery_Item_24,Stationery,58,2,116,Wallet,Thursday,2025-11-06
+C103,Vikram,Female,41,Nashik,Budget,Store_A,P218,Snacks_Item_23,Snacks,461,2,922,Card,Sunday,2025-09-28
+C196,Mahima,Male,23,Mumbai,Budget,Store_D,P934,Personal Care_Item_40,Personal Care,229,3,687,Card,Wednesday,2025-10-29
+C116,Neha,Male,40,Nashik,Budget,Store_A,P622,Grocery_Item_2,Grocery,738,2,1476,Cash,Saturday,2025-10-04
+C174,Karan,Female,50,Jalna,Premium,Store_A,P647,Snacks_Item_22,Snacks,425,5,2125,UPI,Saturday,2025-10-04
+C189,Arjun,Male,48,Aurangabad,Regular,Store_D,P117,Personal Care_Item_18,Personal Care,222,4,888,Wallet,Thursday,2025-10-16
+C196,Arjun,Male,31,Jalna,Regular,Store_D,P123,Snacks_Item_34,Snacks,973,3,2919,Cash,Sunday,2025-10-19
+C180,Karan,Male,58,Mumbai,Regular,Store_C,P474,Electronics_Item_8,Electronics,999,3,2997,UPI,Tuesday,2025-09-30
+C181,Neha,Male,42,Mumbai,Premium,Store_C,P623,Electronics_Item_10,Electronics,748,2,1496,Cash,Sunday,2025-10-26
+C122,Karan,Female,19,Nashik,Regular,Store_B,P729,Beverages_Item_31,Beverages,665,5,3325,Wallet,Thursday,2025-10-23
+C134,Aarav,Female,22,Pune,Premium,Store_C,P237,Beverages_Item_13,Beverages,653,2,1306,Wallet,Tuesday,2025-09-16
+C162,Vikram,Male,36,Nagpur,Budget,Store_A,P183,Stationery_Item_26,Stationery,453,3,1359,Wallet,Saturday,2025-09-13
+C105,Riya,Female,41,Jalna,Budget,Store_B,P776,Snacks_Item_44,Snacks,464,4,1856,Card,Monday,2025-11-03
+C167,Neha,Male,19,Jalna,Regular,Store_A,P915,Beverages_Item_10,Beverages,169,5,845,Card,Sunday,2025-11-02
+C170,Karan,Male,60,Jalna,Budget,Store_D,P607,Beverages_Item_2,Beverages,374,3,1122,Cash,Thursday,2025-10-23
+C143,Mahima,Female,55,Jalna,Regular,Store_C,P200,Beverages_Item_1,Beverages,293,4,1172,UPI,Friday,2025-10-03
+C154,Riya,Female,28,Jalna,Premium,Store_D,P832,Beverages_Item_40,Beverages,286,2,572,UPI,Friday,2025-09-12
+C132,Raj,Male,55,Nagpur,Premium,Store_D,P680,Personal Care_Item_37,Personal Care,789,4,3156,Card,Sunday,2025-10-12
+C175,Arjun,Female,50,Aurangabad,Budget,Store_C,P621,Snacks_Item_50,Snacks,326,3,978,Wallet,Thursday,2025-10-30
+C139,Mahima,Male,23,Aurangabad,Regular,Store_A,P647,Stationery_Item_6,Stationery,774,5,3870,Cash,Tuesday,2025-09-30
+C153,Neha,Male,21,Mumbai,Budget,Store_B,P542,Electronics_Item_27,Electronics,598,2,1196,UPI,Thursday,2025-09-25
+C180,Aarav,Female,48,Nashik,Premium,Store_A,P265,Stationery_Item_12,Stationery,511,4,2044,Wallet,Saturday,2025-09-13
+C188,Isha,Male,33,Nashik,Premium,Store_C,P231,Beverages_Item_34,Beverages,272,3,816,Wallet,Tuesday,2025-09-23
+C146,Mahima,Female,25,Nagpur,Premium,Store_B,P348,Grocery_Item_42,Grocery,271,4,1084,Card,Tuesday,2025-10-07
+C196,Riya,Male,29,Mumbai,Regular,Store_D,P157,Personal Care_Item_49,Personal Care,149,2,298,Card,Saturday,2025-10-04
+C151,Isha,Male,43,Mumbai,Budget,Store_C,P502,Beverages_Item_40,Beverages,998,5,4990,Cash,Thursday,2025-10-09
+C104,Isha,Female,21,Aurangabad,Budget,Store_A,P971,Stationery_Item_41,Stationery,106,5,530,UPI,Saturday,2025-10-18
+C145,Aarav,Female,31,Pune,Regular,Store_A,P108,Grocery_Item_23,Grocery,419,5,2095,Wallet,Wednesday,2025-09-17
+C138,Arjun,Male,51,Mumbai,Regular,Store_C,P959,Electronics_Item_24,Electronics,459,1,459,UPI,Friday,2025-10-31
+C131,Isha,Female,39,Mumbai,Regular,Store_B,P579,Snacks_Item_6,Snacks,490,1,490,Wallet,Friday,2025-09-19
+C102,Mahima,Male,36,Nashik,Premium,Store_A,P227,Stationery_Item_49,Stationery,966,5,4830,Cash,Thursday,2025-10-23
+C118,Arjun,Female,32,Pune,Regular,Store_A,P907,Stationery_Item_25,Stationery,672,5,3360,UPI,Monday,2025-11-03
+C104,Karan,Male,30,Nashik,Budget,Store_B,P341,Grocery_Item_34,Grocery,544,4,2176,Card,Saturday,2025-10-18
+C112,Neha,Female,42,Mumbai,Regular,Store_B,P314,Electronics_Item_28,Electronics,646,2,1292,UPI,Thursday,2025-09-11
+C168,Riya,Female,29,Nashik,Premium,Store_B,P475,Grocery_Item_23,Grocery,970,1,970,UPI,Wednesday,2025-09-24
+C182,Arjun,Male,53,Nashik,Regular,Store_C,P397,Snacks_Item_36,Snacks,112,3,336,Card,Monday,2025-09-15
+C115,Riya,Male,34,Nagpur,Premium,Store_B,P464,Stationery_Item_40,Stationery,542,2,1084,Cash,Friday,2025-09-19
+C187,Mahima,Male,60,Nagpur,Premium,Store_C,P958,Stationery_Item_21,Stationery,924,3,2772,Cash,Thursday,2025-10-16
+C153,Karan,Male,33,Nagpur,Premium,Store_A,P360,Stationery_Item_45,Stationery,754,4,3016,Cash,Thursday,2025-10-02
+C100,Raj,Female,59,Nashik,Premium,Store_A,P745,Snacks_Item_24,Snacks,260,2,520,Cash,Tuesday,2025-10-21
+C146,Aarav,Male,40,Nagpur,Premium,Store_B,P366,Electronics_Item_33,Electronics,918,2,1836,Wallet,Sunday,2025-09-14
+C145,Sneha,Male,27,Pune,Budget,Store_D,P341,Stationery_Item_8,Stationery,370,3,1110,Card,Friday,2025-09-19
+C197,Arjun,Female,18,Pune,Regular,Store_B,P316,Electronics_Item_10,Electronics,301,3,903,Wallet,Monday,2025-09-15
+C121,Vikram,Male,21,Nashik,Regular,Store_C,P957,Snacks_Item_5,Snacks,425,4,1700,Wallet,Monday,2025-11-10
+C163,Neha,Female,30,Mumbai,Regular,Store_C,P456,Stationery_Item_47,Stationery,302,3,906,UPI,Wednesday,2025-09-24
+C121,Aarav,Female,34,Nagpur,Budget,Store_A,P210,Personal Care_Item_49,Personal Care,755,1,755,Card,Thursday,2025-09-25
+C123,Arjun,Male,24,Pune,Regular,Store_A,P966,Snacks_Item_8,Snacks,595,5,2975,Wallet,Friday,2025-10-24
+C119,Karan,Female,21,Aurangabad,Regular,Store_D,P457,Beverages_Item_7,Beverages,107,1,107,Cash,Thursday,2025-09-18
+C142,Aarav,Female,59,Aurangabad,Premium,Store_A,P122,Personal Care_Item_7,Personal Care,395,3,1185,Cash,Thursday,2025-10-09
+C190,Raj,Male,26,Pune,Premium,Store_B,P942,Stationery_Item_44,Stationery,143,3,429,UPI,Tuesday,2025-09-30
+C172,Riya,Female,50,Aurangabad,Regular,Store_B,P346,Stationery_Item_17,Stationery,432,2,864,Wallet,Wednesday,2025-09-24
+C105,Arjun,Female,44,Jalna,Regular,Store_B,P982,Stationery_Item_8,Stationery,363,1,363,Cash,Thursday,2025-10-23
+C183,Isha,Female,35,Aurangabad,Budget,Store_A,P924,Grocery_Item_20,Grocery,132,5,660,UPI,Thursday,2025-10-02
+C144,Vikram,Female,31,Nashik,Regular,Store_C,P186,Beverages_Item_23,Beverages,828,2,1656,Wallet,Thursday,2025-09-25
+C199,Sneha,Male,47,Nashik,Premium,Store_C,P758,Stationery_Item_1,Stationery,57,2,114,Card,Wednesday,2025-10-08
+C111,Aarav,Female,39,Jalna,Regular,Store_A,P170,Beverages_Item_16,Beverages,608,2,1216,Cash,Sunday,2025-10-26
+C115,Vikram,Female,49,Mumbai,Regular,Store_A,P468,Snacks_Item_30,Snacks,462,3,1386,Cash,Tuesday,2025-11-04
+C172,Karan,Male,46,Mumbai,Budget,Store_C,P846,Stationery_Item_44,Stationery,668,5,3340,Cash,Friday,2025-09-19
+C182,Raj,Male,49,Mumbai,Regular,Store_D,P915,Snacks_Item_46,Snacks,605,5,3025,Card,Monday,2025-09-15
+C191,Sneha,Female,37,Aurangabad,Budget,Store_B,P351,Snacks_Item_17,Snacks,822,5,4110,Wallet,Monday,2025-09-29
+C199,Raj,Female,28,Nagpur,Regular,Store_D,P425,Personal Care_Item_40,Personal Care,94,4,376,Wallet,Saturday,2025-10-04
+C104,Raj,Male,38,Nashik,Budget,Store_D,P944,Electronics_Item_6,Electronics,482,4,1928,Wallet,Friday,2025-10-03
+C136,Neha,Female,34,Aurangabad,Premium,Store_D,P837,Stationery_Item_35,Stationery,120,1,120,Wallet,Sunday,2025-10-12
+C183,Arjun,Female,28,Mumbai,Premium,Store_C,P138,Beverages_Item_49,Beverages,966,3,2898,UPI,Tuesday,2025-10-07
+C144,Neha,Male,37,Jalna,Premium,Store_C,P399,Personal Care_Item_1,Personal Care,36,3,108,Cash,Wednesday,2025-09-17
+C154,Aarav,Male,51,Pune,Premium,Store_D,P550,Stationery_Item_30,Stationery,871,4,3484,Cash,Wednesday,2025-09-24
+C195,Aarav,Male,59,Pune,Premium,Store_B,P690,Beverages_Item_7,Beverages,236,1,236,Wallet,Thursday,2025-11-06
+C192,Raj,Male,58,Nashik,Regular,Store_D,P805,Electronics_Item_25,Electronics,291,3,873,Card,Tuesday,2025-10-28
+C144,Neha,Female,49,Nagpur,Premium,Store_A,P356,Personal Care_Item_25,Personal Care,836,1,836,UPI,Saturday,2025-09-27
+C161,Sneha,Female,25,Nashik,Regular,Store_C,P913,Beverages_Item_46,Beverages,822,2,1644,Wallet,Thursday,2025-11-06
+C157,Mahima,Male,58,Nagpur,Budget,Store_B,P895,Personal Care_Item_32,Personal Care,998,1,998,UPI,Wednesday,2025-10-08
+C151,Karan,Female,43,Pune,Premium,Store_B,P657,Stationery_Item_12,Stationery,228,5,1140,Card,Tuesday,2025-11-04
+C112,Isha,Female,36,Nashik,Budget,Store_A,P495,Snacks_Item_24,Snacks,805,4,3220,Card,Tuesday,2025-10-07
+C106,Isha,Female,47,Pune,Budget,Store_A,P210,Snacks_Item_45,Snacks,80,2,160,UPI,Thursday,2025-10-30
+C173,Neha,Female,45,Pune,Budget,Store_D,P178,Personal Care_Item_9,Personal Care,519,5,2595,Wallet,Saturday,2025-10-04
+C134,Sneha,Male,33,Pune,Premium,Store_A,P524,Beverages_Item_44,Beverages,527,2,1054,Wallet,Tuesday,2025-09-16
+C117,Sneha,Female,37,Nashik,Budget,Store_C,P606,Beverages_Item_4,Beverages,636,1,636,UPI,Sunday,2025-11-02
+C100,Mahima,Female,55,Jalna,Regular,Store_B,P967,Personal Care_Item_38,Personal Care,398,2,796,UPI,Wednesday,2025-10-08
+C102,Isha,Male,22,Jalna,Premium,Store_A,P405,Personal Care_Item_47,Personal Care,705,1,705,Wallet,Monday,2025-10-13
+C162,Sneha,Female,39,Mumbai,Premium,Store_B,P459,Personal Care_Item_3,Personal Care,330,1,330,Cash,Friday,2025-10-03
+C102,Riya,Male,52,Aurangabad,Regular,Store_C,P435,Stationery_Item_9,Stationery,907,1,907,UPI,Monday,2025-09-29
+C145,Neha,Male,20,Nashik,Budget,Store_A,P656,Electronics_Item_15,Electronics,648,3,1944,UPI,Friday,2025-10-17
+C135,Isha,Female,51,Nagpur,Regular,Store_A,P790,Electronics_Item_11,Electronics,445,3,1335,Cash,Sunday,2025-10-26
+C102,Vikram,Male,48,Nagpur,Budget,Store_D,P372,Personal Care_Item_10,Personal Care,561,3,1683,UPI,Friday,2025-11-07
+C117,Mahima,Male,54,Pune,Budget,Store_C,P974,Electronics_Item_36,Electronics,731,5,3655,UPI,Thursday,2025-10-30
+C183,Raj,Male,18,Mumbai,Premium,Store_D,P526,Grocery_Item_47,Grocery,47,1,47,UPI,Saturday,2025-10-25
+C113,Sneha,Female,42,Nashik,Budget,Store_A,P701,Electronics_Item_42,Electronics,568,2,1136,Cash,Thursday,2025-09-11
+C106,Vikram,Male,27,Mumbai,Premium,Store_B,P335,Personal Care_Item_48,Personal Care,68,2,136,Cash,Monday,2025-09-22
+C133,Sneha,Female,25,Aurangabad,Premium,Store_A,P873,Personal Care_Item_34,Personal Care,372,3,1116,Wallet,Wednesday,2025-10-01
+C141,Mahima,Female,38,Mumbai,Premium,Store_C,P220,Beverages_Item_8,Beverages,377,5,1885,Wallet,Monday,2025-10-27
+C124,Isha,Female,23,Mumbai,Regular,Store_B,P798,Snacks_Item_22,Snacks,427,3,1281,Card,Thursday,2025-10-16
+C138,Riya,Female,54,Mumbai,Regular,Store_B,P174,Snacks_Item_40,Snacks,340,5,1700,Wallet,Saturday,2025-09-20
+C104,Sneha,Female,40,Pune,Regular,Store_D,P321,Grocery_Item_33,Grocery,722,2,1444,UPI,Friday,2025-09-12
+C176,Aarav,Male,30,Mumbai,Budget,Store_C,P375,Snacks_Item_5,Snacks,967,3,2901,Wallet,Friday,2025-11-07
+C100,Karan,Male,38,Jalna,Regular,Store_C,P889,Snacks_Item_47,Snacks,369,4,1476,UPI,Friday,2025-09-19
+C135,Mahima,Female,27,Aurangabad,Premium,Store_A,P377,Electronics_Item_50,Electronics,659,3,1977,Cash,Thursday,2025-11-06
+C139,Aarav,Male,60,Mumbai,Budget,Store_B,P498,Stationery_Item_13,Stationery,404,1,404,UPI,Friday,2025-10-10
+C146,Isha,Female,45,Nashik,Premium,Store_A,P932,Snacks_Item_45,Snacks,146,4,584,Wallet,Thursday,2025-09-25
+C130,Sneha,Male,33,Nashik,Regular,Store_B,P926,Grocery_Item_12,Grocery,907,2,1814,UPI,Thursday,2025-10-02
+C191,Karan,Female,53,Aurangabad,Budget,Store_B,P268,Beverages_Item_20,Beverages,451,4,1804,UPI,Monday,2025-09-29
+C152,Raj,Female,39,Jalna,Regular,Store_D,P857,Stationery_Item_32,Stationery,365,3,1095,UPI,Saturday,2025-09-13
+C115,Sneha,Male,50,Aurangabad,Budget,Store_D,P501,Beverages_Item_18,Beverages,440,2,880,Wallet,Saturday,2025-09-20
+C144,Arjun,Male,47,Nagpur,Budget,Store_A,P390,Snacks_Item_36,Snacks,196,1,196,Cash,Wednesday,2025-10-01
+C165,Riya,Male,34,Pune,Premium,Store_C,P848,Stationery_Item_31,Stationery,881,1,881,UPI,Wednesday,2025-09-17
+C132,Raj,Female,36,Aurangabad,Regular,Store_C,P389,Beverages_Item_12,Beverages,275,2,550,Cash,Friday,2025-10-10
+C187,Arjun,Female,31,Aurangabad,Budget,Store_B,P153,Beverages_Item_6,Beverages,317,4,1268,Wallet,Saturday,2025-11-08
+C112,Riya,Male,21,Nashik,Regular,Store_A,P387,Beverages_Item_13,Beverages,844,3,2532,UPI,Thursday,2025-09-25
+C132,Raj,Male,47,Aurangabad,Regular,Store_C,P692,Beverages_Item_15,Beverages,712,5,3560,UPI,Tuesday,2025-10-28
+C197,Aarav,Male,50,Jalna,Premium,Store_B,P459,Grocery_Item_15,Grocery,990,3,2970,UPI,Friday,2025-10-24
+C169,Arjun,Male,56,Pune,Budget,Store_A,P818,Personal Care_Item_40,Personal Care,782,5,3910,Cash,Tuesday,2025-10-07
+C166,Aarav,Female,36,Jalna,Budget,Store_B,P651,Grocery_Item_29,Grocery,65,1,65,Card,Wednesday,2025-10-22
+C131,Riya,Male,25,Jalna,Budget,Store_B,P322,Snacks_Item_38,Snacks,573,3,1719,Cash,Thursday,2025-11-06
+C123,Vikram,Female,33,Mumbai,Budget,Store_D,P865,Snacks_Item_6,Snacks,703,5,3515,Cash,Monday,2025-09-22
+C187,Vikram,Female,59,Nagpur,Premium,Store_B,P245,Personal Care_Item_42,Personal Care,203,5,1015,Cash,Saturday,2025-11-01
+C177,Neha,Female,32,Pune,Budget,Store_D,P291,Snacks_Item_44,Snacks,725,4,2900,Cash,Sunday,2025-10-12
+C122,Raj,Male,34,Aurangabad,Premium,Store_D,P442,Grocery_Item_28,Grocery,421,1,421,Card,Friday,2025-10-17
+C126,Mahima,Female,49,Aurangabad,Premium,Store_A,P110,Personal Care_Item_16,Personal Care,864,1,864,Card,Thursday,2025-10-23
+C176,Vikram,Male,50,Aurangabad,Regular,Store_B,P891,Electronics_Item_2,Electronics,659,4,2636,Card,Friday,2025-10-24
+C169,Neha,Male,51,Aurangabad,Budget,Store_D,P616,Grocery_Item_11,Grocery,439,2,878,UPI,Monday,2025-11-10
+C176,Karan,Male,49,Jalna,Budget,Store_B,P736,Personal Care_Item_39,Personal Care,118,2,236,Wallet,Sunday,2025-09-14
+C177,Arjun,Female,29,Jalna,Budget,Store_A,P758,Grocery_Item_25,Grocery,584,4,2336,Cash,Saturday,2025-11-01
+C196,Riya,Male,53,Mumbai,Premium,Store_A,P137,Beverages_Item_23,Beverages,56,5,280,Cash,Sunday,2025-11-09
+C103,Neha,Male,45,Pune,Budget,Store_C,P272,Beverages_Item_42,Beverages,320,4,1280,Cash,Wednesday,2025-10-22
+C176,Aarav,Female,23,Nashik,Regular,Store_C,P878,Snacks_Item_19,Snacks,961,2,1922,Wallet,Wednesday,2025-11-05
+C182,Aarav,Female,49,Jalna,Premium,Store_A,P342,Personal Care_Item_42,Personal Care,186,2,372,UPI,Tuesday,2025-10-21
+C116,Arjun,Male,24,Mumbai,Premium,Store_B,P141,Beverages_Item_11,Beverages,398,3,1194,Card,Wednesday,2025-10-15
+C114,Karan,Female,50,Nashik,Regular,Store_D,P256,Grocery_Item_27,Grocery,380,5,1900,Wallet,Thursday,2025-10-16
+C155,Aarav,Male,45,Nagpur,Regular,Store_A,P596,Personal Care_Item_1,Personal Care,928,4,3712,Wallet,Monday,2025-10-20
+C109,Raj,Female,28,Jalna,Budget,Store_D,P801,Beverages_Item_40,Beverages,476,3,1428,Wallet,Tuesday,2025-09-30
+C131,Aarav,Female,56,Jalna,Budget,Store_A,P831,Beverages_Item_42,Beverages,350,2,700,Cash,Thursday,2025-09-11
+C127,Karan,Male,49,Nagpur,Premium,Store_C,P108,Electronics_Item_10,Electronics,583,5,2915,Wallet,Wednesday,2025-10-22
+C140,Arjun,Male,49,Pune,Premium,Store_A,P414,Personal Care_Item_14,Personal Care,321,4,1284,UPI,Wednesday,2025-09-24
+C149,Vikram,Male,57,Nashik,Regular,Store_C,P798,Stationery_Item_48,Stationery,357,2,714,UPI,Sunday,2025-10-26
+C181,Mahima,Male,34,Pune,Budget,Store_D,P865,Personal Care_Item_34,Personal Care,181,2,362,UPI,Monday,2025-09-29
+C191,Arjun,Male,58,Aurangabad,Premium,Store_D,P601,Stationery_Item_24,Stationery,311,1,311,Cash,Friday,2025-10-03
+C177,Karan,Female,41,Mumbai,Premium,Store_C,P703,Grocery_Item_39,Grocery,790,3,2370,UPI,Sunday,2025-10-19
+C135,Neha,Female,20,Aurangabad,Regular,Store_C,P665,Snacks_Item_44,Snacks,103,4,412,Cash,Tuesday,2025-11-04
+C141,Karan,Male,38,Nashik,Premium,Store_D,P609,Stationery_Item_19,Stationery,758,5,3790,Card,Wednesday,2025-11-05
+C142,Isha,Female,20,Jalna,Regular,Store_C,P329,Beverages_Item_10,Beverages,806,5,4030,Wallet,Tuesday,2025-09-30
+C104,Karan,Male,24,Nashik,Budget,Store_A,P830,Beverages_Item_13,Beverages,580,5,2900,Cash,Saturday,2025-09-13
+C166,Isha,Male,33,Pune,Budget,Store_C,P109,Personal Care_Item_37,Personal Care,700,3,2100,Cash,Saturday,2025-10-11
+C123,Aarav,Male,49,Nashik,Budget,Store_D,P706,Electronics_Item_17,Electronics,80,3,240,Card,Friday,2025-10-03
+C156,Sneha,Male,51,Nashik,Regular,Store_A,P985,Personal Care_Item_5,Personal Care,649,4,2596,Wallet,Sunday,2025-09-28
+C149,Riya,Female,44,Mumbai,Premium,Store_A,P585,Personal Care_Item_34,Personal Care,722,1,722,Card,Friday,2025-10-24
+C157,Raj,Male,58,Aurangabad,Budget,Store_A,P856,Stationery_Item_8,Stationery,764,3,2292,UPI,Saturday,2025-10-25
+C126,Arjun,Male,39,Aurangabad,Regular,Store_C,P766,Personal Care_Item_49,Personal Care,817,1,817,UPI,Sunday,2025-10-26
+C132,Neha,Male,54,Aurangabad,Budget,Store_A,P135,Stationery_Item_36,Stationery,481,1,481,Card,Monday,2025-09-15
+C105,Mahima,Female,47,Pune,Regular,Store_B,P224,Stationery_Item_22,Stationery,600,1,600,UPI,Saturday,2025-09-20
+C152,Isha,Male,59,Nagpur,Budget,Store_C,P184,Beverages_Item_17,Beverages,474,2,948,UPI,Monday,2025-09-22
+C126,Vikram,Male,50,Mumbai,Premium,Store_A,P530,Beverages_Item_14,Beverages,673,3,2019,Cash,Wednesday,2025-09-17
+C136,Arjun,Female,23,Jalna,Premium,Store_B,P721,Beverages_Item_31,Beverages,609,2,1218,Cash,Monday,2025-09-15
+C194,Mahima,Female,23,Jalna,Premium,Store_D,P119,Snacks_Item_13,Snacks,445,2,890,Card,Tuesday,2025-10-14
+C134,Mahima,Female,30,Pune,Regular,Store_A,P158,Electronics_Item_25,Electronics,149,3,447,Card,Friday,2025-09-26
+C101,Raj,Male,33,Nashik,Premium,Store_D,P811,Grocery_Item_21,Grocery,630,1,630,UPI,Sunday,2025-11-09
+C164,Karan,Female,21,Mumbai,Premium,Store_D,P378,Grocery_Item_13,Grocery,808,1,808,Wallet,Thursday,2025-09-25
+C103,Isha,Female,27,Nashik,Regular,Store_A,P520,Electronics_Item_31,Electronics,842,3,2526,UPI,Sunday,2025-11-09
+C145,Mahima,Male,46,Nagpur,Budget,Store_C,P754,Personal Care_Item_44,Personal Care,505,4,2020,UPI,Saturday,2025-11-01
+C197,Arjun,Male,50,Nagpur,Budget,Store_B,P384,Electronics_Item_3,Electronics,816,2,1632,UPI,Thursday,2025-09-25
+C110,Arjun,Female,34,Jalna,Budget,Store_A,P136,Stationery_Item_7,Stationery,893,2,1786,Card,Wednesday,2025-10-01
+C117,Isha,Female,24,Nashik,Budget,Store_C,P812,Beverages_Item_27,Beverages,840,4,3360,UPI,Monday,2025-10-06
+C139,Aarav,Female,56,Mumbai,Premium,Store_D,P508,Stationery_Item_23,Stationery,67,2,134,UPI,Thursday,2025-10-02
+C144,Sneha,Female,60,Nagpur,Premium,Store_C,P958,Grocery_Item_47,Grocery,74,4,296,Cash,Saturday,2025-09-20
+C130,Vikram,Male,37,Jalna,Regular,Store_B,P807,Personal Care_Item_42,Personal Care,362,3,1086,UPI,Tuesday,2025-10-21
+C138,Arjun,Male,28,Nagpur,Regular,Store_D,P504,Electronics_Item_19,Electronics,396,2,792,UPI,Tuesday,2025-10-07
+C158,Mahima,Female,47,Mumbai,Budget,Store_C,P646,Stationery_Item_33,Stationery,198,2,396,Cash,Sunday,2025-10-26
+C180,Neha,Male,46,Pune,Budget,Store_D,P557,Electronics_Item_38,Electronics,502,4,2008,Card,Sunday,2025-10-19
+C112,Mahima,Female,36,Pune,Premium,Store_B,P666,Beverages_Item_5,Beverages,876,4,3504,Card,Tuesday,2025-10-07
+C125,Vikram,Male,43,Pune,Premium,Store_B,P539,Electronics_Item_8,Electronics,981,4,3924,Wallet,Thursday,2025-10-30
+C126,Neha,Male,21,Nagpur,Premium,Store_B,P389,Personal Care_Item_8,Personal Care,991,5,4955,Card,Wednesday,2025-09-17
+C159,Sneha,Male,23,Mumbai,Premium,Store_A,P125,Stationery_Item_10,Stationery,431,4,1724,Card,Saturday,2025-09-13
+C114,Neha,Male,53,Aurangabad,Premium,Store_D,P692,Snacks_Item_26,Snacks,942,4,3768,UPI,Thursday,2025-10-23
+C172,Raj,Female,20,Aurangabad,Premium,Store_C,P626,Snacks_Item_26,Snacks,88,3,264,Wallet,Thursday,2025-10-09
+C173,Neha,Female,30,Pune,Budget,Store_A,P614,Electronics_Item_12,Electronics,461,4,1844,Cash,Friday,2025-10-31
+C149,Sneha,Female,24,Mumbai,Premium,Store_A,P806,Personal Care_Item_39,Personal Care,978,1,978,UPI,Thursday,2025-10-02
+C101,Karan,Female,48,Mumbai,Premium,Store_C,P697,Snacks_Item_48,Snacks,511,3,1533,Cash,Tuesday,2025-10-21
+C178,Raj,Male,42,Nagpur,Budget,Store_A,P321,Snacks_Item_17,Snacks,595,1,595,Wallet,Friday,2025-10-17
+C179,Sneha,Female,51,Pune,Premium,Store_D,P641,Personal Care_Item_32,Personal Care,108,5,540,Card,Thursday,2025-10-09
+C102,Raj,Female,35,Pune,Regular,Store_B,P849,Grocery_Item_16,Grocery,603,1,603,Cash,Thursday,2025-10-30
+C149,Karan,Male,50,Mumbai,Regular,Store_A,P760,Snacks_Item_44,Snacks,659,1,659,UPI,Tuesday,2025-10-21
+C195,Sneha,Male,40,Mumbai,Budget,Store_D,P564,Grocery_Item_16,Grocery,903,1,903,Wallet,Monday,2025-10-06
+C175,Neha,Male,48,Pune,Regular,Store_D,P685,Grocery_Item_2,Grocery,954,3,2862,Cash,Thursday,2025-11-06
+C180,Riya,Female,51,Nashik,Premium,Store_B,P681,Electronics_Item_26,Electronics,941,4,3764,Card,Saturday,2025-10-18
+C156,Raj,Male,60,Pune,Premium,Store_B,P475,Personal Care_Item_11,Personal Care,368,2,736,Cash,Tuesday,2025-10-14
+C124,Aarav,Male,47,Nashik,Budget,Store_B,P743,Personal Care_Item_29,Personal Care,883,2,1766,UPI,Saturday,2025-10-11
+C130,Sneha,Female,38,Nagpur,Premium,Store_B,P859,Beverages_Item_19,Beverages,632,2,1264,Cash,Sunday,2025-10-12
+C125,Raj,Female,55,Nagpur,Regular,Store_A,P250,Electronics_Item_30,Electronics,237,5,1185,Wallet,Saturday,2025-09-13
+C178,Aarav,Female,25,Nagpur,Regular,Store_C,P733,Snacks_Item_18,Snacks,344,3,1032,Wallet,Sunday,2025-09-14
+C144,Aarav,Female,55,Aurangabad,Budget,Store_C,P747,Beverages_Item_25,Beverages,683,3,2049,Wallet,Saturday,2025-11-08
+C158,Arjun,Male,59,Aurangabad,Budget,Store_C,P296,Snacks_Item_29,Snacks,425,1,425,Cash,Tuesday,2025-09-23
+C126,Mahima,Male,44,Pune,Budget,Store_A,P412,Personal Care_Item_42,Personal Care,354,1,354,Cash,Wednesday,2025-11-05
+C146,Neha,Male,35,Pune,Regular,Store_C,P688,Stationery_Item_29,Stationery,848,4,3392,UPI,Friday,2025-09-19
+C148,Arjun,Female,52,Jalna,Budget,Store_A,P690,Grocery_Item_9,Grocery,492,4,1968,Wallet,Monday,2025-09-29
+C134,Riya,Female,25,Jalna,Premium,Store_D,P983,Beverages_Item_17,Beverages,720,1,720,Wallet,Friday,2025-11-07
+C183,Isha,Female,29,Mumbai,Budget,Store_C,P805,Electronics_Item_19,Electronics,269,2,538,Wallet,Friday,2025-10-17
+C139,Arjun,Female,56,Nagpur,Premium,Store_D,P733,Beverages_Item_22,Beverages,465,2,930,UPI,Monday,2025-10-13
+C105,Mahima,Male,54,Jalna,Budget,Store_A,P859,Beverages_Item_14,Beverages,449,4,1796,UPI,Monday,2025-09-15
+C127,Aarav,Male,26,Aurangabad,Premium,Store_B,P184,Snacks_Item_27,Snacks,501,1,501,UPI,Saturday,2025-09-20
+C141,Isha,Male,34,Nashik,Premium,Store_D,P475,Snacks_Item_29,Snacks,814,5,4070,Card,Friday,2025-10-03
+C171,Raj,Male,51,Mumbai,Budget,Store_B,P742,Personal Care_Item_47,Personal Care,905,4,3620,Cash,Thursday,2025-09-25
+C170,Sneha,Female,22,Nagpur,Budget,Store_D,P125,Personal Care_Item_8,Personal Care,828,5,4140,Card,Monday,2025-09-15
+C142,Vikram,Female,51,Nashik,Regular,Store_A,P508,Snacks_Item_20,Snacks,72,2,144,Cash,Thursday,2025-09-18
+C196,Neha,Female,31,Aurangabad,Regular,Store_C,P846,Electronics_Item_14,Electronics,445,5,2225,Card,Tuesday,2025-09-23
+C117,Vikram,Male,21,Jalna,Regular,Store_A,P651,Personal Care_Item_42,Personal Care,175,3,525,UPI,Monday,2025-10-13
+C191,Vikram,Female,29,Nagpur,Regular,Store_B,P323,Stationery_Item_25,Stationery,636,1,636,Wallet,Friday,2025-09-19
+C163,Sneha,Female,50,Nagpur,Regular,Store_B,P697,Beverages_Item_31,Beverages,414,1,414,UPI,Tuesday,2025-09-23
+C154,Riya,Female,22,Nashik,Regular,Store_A,P303,Snacks_Item_8,Snacks,738,4,2952,Cash,Sunday,2025-10-05
+C149,Sneha,Male,60,Nashik,Budget,Store_A,P526,Stationery_Item_42,Stationery,582,3,1746,UPI,Monday,2025-10-13
+C188,Arjun,Male,38,Nagpur,Budget,Store_A,P103,Grocery_Item_29,Grocery,614,1,614,Card,Wednesday,2025-10-08
+C174,Vikram,Male,53,Nagpur,Premium,Store_B,P249,Snacks_Item_19,Snacks,216,3,648,Cash,Saturday,2025-10-11
+C169,Mahima,Female,37,Nashik,Regular,Store_B,P378,Stationery_Item_25,Stationery,782,1,782,Wallet,Tuesday,2025-09-23
+C127,Arjun,Female,32,Jalna,Regular,Store_C,P139,Snacks_Item_11,Snacks,818,2,1636,Wallet,Saturday,2025-10-18
+C143,Raj,Male,30,Nashik,Budget,Store_B,P213,Beverages_Item_15,Beverages,868,1,868,UPI,Friday,2025-10-10
+C126,Mahima,Male,33,Jalna,Budget,Store_B,P549,Electronics_Item_26,Electronics,124,5,620,Card,Saturday,2025-09-27
+C103,Vikram,Female,57,Aurangabad,Premium,Store_D,P248,Personal Care_Item_30,Personal Care,573,4,2292,Cash,Sunday,2025-09-21
+C157,Aarav,Female,36,Nashik,Budget,Store_D,P440,Snacks_Item_17,Snacks,489,5,2445,Cash,Thursday,2025-09-25
+C173,Aarav,Male,24,Nashik,Premium,Store_A,P859,Beverages_Item_3,Beverages,745,1,745,Card,Friday,2025-10-03
+C108,Sneha,Female,42,Jalna,Budget,Store_B,P716,Snacks_Item_26,Snacks,73,5,365,Cash,Tuesday,2025-10-28
+C136,Isha,Female,44,Jalna,Premium,Store_D,P780,Beverages_Item_34,Beverages,530,2,1060,Cash,Monday,2025-10-06
+C183,Arjun,Female,24,Pune,Premium,Store_D,P890,Electronics_Item_27,Electronics,156,4,624,Card,Thursday,2025-11-06
+C120,Aarav,Male,53,Pune,Premium,Store_D,P981,Personal Care_Item_34,Personal Care,391,5,1955,Wallet,Wednesday,2025-10-01
+C158,Raj,Female,30,Jalna,Budget,Store_A,P637,Grocery_Item_18,Grocery,963,3,2889,UPI,Thursday,2025-10-02
+C103,Aarav,Male,58,Aurangabad,Regular,Store_B,P703,Electronics_Item_7,Electronics,970,1,970,Cash,Monday,2025-10-20
+C168,Riya,Male,36,Pune,Regular,Store_D,P682,Grocery_Item_36,Grocery,775,1,775,Cash,Friday,2025-09-19
+C145,Mahima,Male,28,Aurangabad,Premium,Store_B,P870,Electronics_Item_18,Electronics,585,2,1170,UPI,Monday,2025-09-29
+C101,Karan,Female,54,Mumbai,Premium,Store_D,P187,Snacks_Item_44,Snacks,666,5,3330,Wallet,Thursday,2025-10-09
+C156,Vikram,Female,28,Pune,Premium,Store_B,P777,Grocery_Item_28,Grocery,530,5,2650,Card,Friday,2025-09-26
+C128,Arjun,Male,38,Mumbai,Regular,Store_B,P576,Stationery_Item_46,Stationery,919,3,2757,Card,Sunday,2025-11-09
+C184,Isha,Male,20,Nagpur,Regular,Store_B,P600,Stationery_Item_5,Stationery,843,5,4215,Cash,Wednesday,2025-09-24
+C140,Raj,Female,41,Aurangabad,Budget,Store_C,P441,Grocery_Item_1,Grocery,646,2,1292,Wallet,Monday,2025-11-10
+C163,Aarav,Female,32,Nashik,Budget,Store_A,P842,Stationery_Item_46,Stationery,574,3,1722,Cash,Thursday,2025-09-11
+C126,Isha,Female,37,Aurangabad,Premium,Store_A,P792,Beverages_Item_5,Beverages,687,3,2061,Card,Friday,2025-09-12
+C186,Riya,Female,54,Nashik,Budget,Store_B,P847,Personal Care_Item_45,Personal Care,403,4,1612,Card,Sunday,2025-11-02
+C135,Neha,Male,56,Nashik,Premium,Store_B,P756,Beverages_Item_40,Beverages,473,2,946,Wallet,Wednesday,2025-10-15
+C123,Riya,Male,38,Pune,Budget,Store_C,P145,Stationery_Item_3,Stationery,698,3,2094,Wallet,Monday,2025-11-10
+C192,Sneha,Female,18,Nagpur,Regular,Store_B,P663,Stationery_Item_43,Stationery,877,5,4385,Wallet,Wednesday,2025-10-29
+C104,Isha,Female,22,Nashik,Regular,Store_C,P817,Beverages_Item_2,Beverages,162,4,648,Wallet,Wednesday,2025-10-01
+C164,Isha,Female,34,Aurangabad,Premium,Store_A,P772,Electronics_Item_41,Electronics,243,4,972,Card,Saturday,2025-10-25
+C103,Raj,Male,45,Jalna,Premium,Store_D,P175,Electronics_Item_14,Electronics,640,2,1280,Cash,Wednesday,2025-11-05
+C146,Vikram,Female,33,Pune,Regular,Store_A,P360,Personal Care_Item_45,Personal Care,442,1,442,Card,Friday,2025-10-10
+C188,Karan,Female,35,Nagpur,Regular,Store_C,P876,Personal Care_Item_1,Personal Care,587,3,1761,Wallet,Thursday,2025-10-30
+C122,Aarav,Female,60,Nagpur,Regular,Store_D,P120,Electronics_Item_40,Electronics,134,4,536,Wallet,Sunday,2025-09-14
+C196,Arjun,Female,30,Aurangabad,Premium,Store_A,P920,Stationery_Item_4,Stationery,645,3,1935,Wallet,Wednesday,2025-10-15
+C114,Karan,Female,45,Jalna,Regular,Store_D,P476,Stationery_Item_10,Stationery,855,5,4275,Cash,Sunday,2025-10-26
+C156,Riya,Female,48,Pune,Budget,Store_D,P692,Stationery_Item_2,Stationery,632,5,3160,Wallet,Friday,2025-10-10
+C184,Arjun,Male,55,Aurangabad,Budget,Store_A,P429,Stationery_Item_15,Stationery,174,5,870,Card,Monday,2025-11-03
+C196,Aarav,Female,43,Aurangabad,Budget,Store_D,P110,Grocery_Item_7,Grocery,952,3,2856,Card,Monday,2025-10-27
+C195,Vikram,Female,55,Pune,Regular,Store_C,P715,Grocery_Item_45,Grocery,883,2,1766,Cash,Thursday,2025-09-25
+C150,Raj,Female,57,Pune,Budget,Store_A,P497,Beverages_Item_8,Beverages,751,5,3755,UPI,Friday,2025-11-07
+C160,Karan,Female,23,Aurangabad,Regular,Store_C,P210,Snacks_Item_5,Snacks,265,5,1325,UPI,Tuesday,2025-09-23
+C106,Karan,Female,56,Pune,Regular,Store_A,P139,Grocery_Item_18,Grocery,150,1,150,Cash,Thursday,2025-10-09
+C168,Vikram,Female,34,Jalna,Premium,Store_A,P320,Personal Care_Item_44,Personal Care,977,5,4885,UPI,Tuesday,2025-11-04
+C134,Karan,Female,49,Pune,Premium,Store_A,P721,Beverages_Item_12,Beverages,433,5,2165,Cash,Wednesday,2025-09-17
+C119,Raj,Female,31,Nagpur,Regular,Store_B,P702,Electronics_Item_12,Electronics,521,5,2605,Card,Monday,2025-11-10
+C159,Aarav,Female,24,Mumbai,Premium,Store_D,P335,Electronics_Item_35,Electronics,357,2,714,Cash,Thursday,2025-09-18
+C108,Neha,Male,46,Nashik,Regular,Store_B,P759,Electronics_Item_45,Electronics,750,2,1500,Cash,Wednesday,2025-10-22
+C104,Raj,Male,58,Aurangabad,Regular,Store_D,P428,Snacks_Item_9,Snacks,44,2,88,Cash,Tuesday,2025-09-16
+C120,Riya,Male,19,Pune,Budget,Store_C,P256,Beverages_Item_14,Beverages,945,3,2835,Wallet,Wednesday,2025-10-01
+C124,Neha,Male,18,Nagpur,Premium,Store_D,P470,Grocery_Item_36,Grocery,549,4,2196,UPI,Thursday,2025-10-09
+C109,Vikram,Male,24,Mumbai,Premium,Store_C,P435,Stationery_Item_28,Stationery,545,4,2180,Wallet,Wednesday,2025-10-29
+C180,Aarav,Female,40,Mumbai,Premium,Store_D,P479,Beverages_Item_18,Beverages,615,2,1230,Cash,Friday,2025-10-31
+C144,Vikram,Female,54,Jalna,Premium,Store_C,P845,Beverages_Item_11,Beverages,846,3,2538,UPI,Sunday,2025-10-19
+C152,Raj,Male,52,Aurangabad,Regular,Store_D,P107,Stationery_Item_8,Stationery,368,1,368,Card,Friday,2025-10-31
+C122,Raj,Male,41,Aurangabad,Regular,Store_D,P363,Snacks_Item_13,Snacks,399,5,1995,UPI,Tuesday,2025-10-07
+C113,Isha,Female,27,Jalna,Premium,Store_A,P224,Stationery_Item_39,Stationery,179,1,179,Wallet,Friday,2025-10-31
+C170,Mahima,Female,39,Nashik,Regular,Store_A,P554,Beverages_Item_22,Beverages,316,2,632,Card,Thursday,2025-10-30
+C134,Arjun,Female,40,Nashik,Premium,Store_D,P948,Beverages_Item_37,Beverages,270,1,270,Cash,Friday,2025-09-19
+C164,Vikram,Male,58,Nagpur,Budget,Store_B,P822,Electronics_Item_6,Electronics,744,5,3720,UPI,Friday,2025-10-24
+C189,Mahima,Female,42,Pune,Budget,Store_C,P409,Snacks_Item_27,Snacks,262,5,1310,Cash,Monday,2025-10-13
+C145,Raj,Female,40,Nashik,Budget,Store_B,P529,Stationery_Item_32,Stationery,929,1,929,UPI,Friday,2025-10-03
+C187,Mahima,Male,51,Pune,Premium,Store_D,P484,Snacks_Item_7,Snacks,355,2,710,Cash,Wednesday,2025-10-08
+C132,Aarav,Female,50,Mumbai,Budget,Store_C,P171,Stationery_Item_38,Stationery,385,3,1155,Card,Thursday,2025-09-25
+C175,Vikram,Female,41,Jalna,Regular,Store_B,P211,Grocery_Item_47,Grocery,606,3,1818,Cash,Tuesday,2025-10-07
+C173,Karan,Female,59,Nashik,Premium,Store_A,P263,Beverages_Item_42,Beverages,985,4,3940,UPI,Monday,2025-09-15
+C109,Raj,Male,57,Aurangabad,Regular,Store_B,P399,Electronics_Item_37,Electronics,452,5,2260,Card,Monday,2025-11-10
+C159,Arjun,Male,25,Mumbai,Regular,Store_B,P248,Personal Care_Item_12,Personal Care,909,4,3636,Cash,Monday,2025-10-27
+C169,Neha,Male,38,Nashik,Regular,Store_C,P136,Electronics_Item_36,Electronics,472,1,472,Wallet,Sunday,2025-09-14
+C149,Mahima,Female,52,Nashik,Budget,Store_D,P787,Beverages_Item_38,Beverages,742,5,3710,Wallet,Tuesday,2025-10-28
+C143,Mahima,Male,27,Aurangabad,Regular,Store_C,P129,Snacks_Item_11,Snacks,940,4,3760,Cash,Friday,2025-09-19
+C134,Vikram,Male,42,Mumbai,Budget,Store_B,P402,Stationery_Item_29,Stationery,605,5,3025,Cash,Sunday,2025-10-12
+C154,Mahima,Male,38,Nagpur,Budget,Store_B,P757,Grocery_Item_30,Grocery,808,2,1616,Cash,Sunday,2025-10-26
+C196,Vikram,Male,58,Mumbai,Regular,Store_B,P230,Beverages_Item_23,Beverages,827,3,2481,UPI,Wednesday,2025-10-08
+C161,Riya,Male,20,Aurangabad,Regular,Store_B,P669,Stationery_Item_24,Stationery,474,2,948,Card,Monday,2025-11-10
+C136,Karan,Male,53,Nagpur,Regular,Store_B,P714,Grocery_Item_32,Grocery,412,2,824,Wallet,Thursday,2025-10-16
+C159,Sneha,Female,52,Aurangabad,Premium,Store_A,P278,Electronics_Item_41,Electronics,993,5,4965,UPI,Thursday,2025-10-30
+C172,Neha,Female,40,Pune,Regular,Store_C,P419,Stationery_Item_47,Stationery,324,3,972,UPI,Tuesday,2025-09-23
+C186,Aarav,Male,57,Aurangabad,Regular,Store_D,P618,Beverages_Item_50,Beverages,114,4,456,UPI,Tuesday,2025-11-04
+C133,Neha,Female,58,Jalna,Budget,Store_C,P670,Personal Care_Item_23,Personal Care,277,2,554,Cash,Sunday,2025-09-21
+C123,Karan,Female,28,Mumbai,Premium,Store_A,P309,Electronics_Item_27,Electronics,177,3,531,Wallet,Sunday,2025-10-12
+C163,Karan,Female,60,Mumbai,Budget,Store_C,P465,Electronics_Item_20,Electronics,839,5,4195,Card,Tuesday,2025-09-16
+C125,Vikram,Female,46,Nashik,Premium,Store_C,P252,Stationery_Item_15,Stationery,790,5,3950,UPI,Monday,2025-11-03
+C187,Mahima,Female,45,Jalna,Regular,Store_B,P929,Stationery_Item_32,Stationery,780,3,2340,Cash,Saturday,2025-11-08
+C149,Aarav,Male,30,Mumbai,Premium,Store_A,P543,Beverages_Item_48,Beverages,540,2,1080,Cash,Thursday,2025-09-11
+C155,Riya,Male,36,Pune,Premium,Store_A,P424,Grocery_Item_46,Grocery,132,4,528,Wallet,Sunday,2025-09-14
+C105,Aarav,Male,32,Jalna,Regular,Store_A,P323,Beverages_Item_12,Beverages,848,5,4240,UPI,Sunday,2025-10-12
+C171,Riya,Male,27,Jalna,Regular,Store_B,P454,Personal Care_Item_33,Personal Care,416,4,1664,Cash,Saturday,2025-10-18
+C100,Riya,Female,39,Nagpur,Regular,Store_D,P524,Stationery_Item_33,Stationery,245,4,980,Wallet,Thursday,2025-09-18
+C113,Arjun,Male,25,Nagpur,Premium,Store_B,P508,Personal Care_Item_35,Personal Care,583,2,1166,Wallet,Monday,2025-09-29
+C171,Mahima,Female,56,Mumbai,Premium,Store_A,P976,Snacks_Item_33,Snacks,263,1,263,Wallet,Sunday,2025-11-02
+C114,Raj,Male,19,Nashik,Regular,Store_D,P456,Stationery_Item_39,Stationery,524,5,2620,Wallet,Sunday,2025-09-21
+C137,Neha,Female,40,Jalna,Regular,Store_D,P771,Beverages_Item_16,Beverages,747,2,1494,Cash,Thursday,2025-10-16
+C147,Neha,Female,56,Pune,Budget,Store_A,P694,Stationery_Item_41,Stationery,168,2,336,Card,Sunday,2025-09-14
+C153,Neha,Female,51,Nashik,Budget,Store_A,P954,Grocery_Item_37,Grocery,137,3,411,Card,Sunday,2025-09-14
+C189,Riya,Female,51,Nashik,Budget,Store_D,P647,Beverages_Item_32,Beverages,145,5,725,Wallet,Tuesday,2025-09-16
+C189,Riya,Male,30,Pune,Regular,Store_D,P266,Electronics_Item_40,Electronics,861,5,4305,Wallet,Thursday,2025-10-02
+C103,Neha,Female,54,Nagpur,Regular,Store_D,P473,Beverages_Item_45,Beverages,773,5,3865,Cash,Monday,2025-11-10
+C188,Neha,Female,48,Pune,Budget,Store_D,P837,Personal Care_Item_11,Personal Care,965,4,3860,Cash,Saturday,2025-09-13
+C176,Neha,Female,57,Mumbai,Regular,Store_A,P803,Personal Care_Item_10,Personal Care,938,3,2814,Cash,Saturday,2025-09-13
+C151,Karan,Male,48,Jalna,Regular,Store_A,P701,Beverages_Item_3,Beverages,43,4,172,Card,Tuesday,2025-10-07
+C171,Mahima,Male,31,Aurangabad,Regular,Store_C,P828,Personal Care_Item_6,Personal Care,735,3,2205,UPI,Thursday,2025-11-06
+C120,Raj,Female,53,Pune,Budget,Store_B,P812,Beverages_Item_25,Beverages,804,3,2412,UPI,Sunday,2025-10-12
+C193,Isha,Male,41,Mumbai,Regular,Store_B,P165,Stationery_Item_21,Stationery,676,4,2704,Cash,Wednesday,2025-10-29
+C163,Riya,Female,52,Aurangabad,Premium,Store_B,P193,Grocery_Item_2,Grocery,920,5,4600,Wallet,Sunday,2025-09-21
+C163,Aarav,Female,60,Mumbai,Regular,Store_D,P840,Beverages_Item_44,Beverages,547,1,547,Card,Sunday,2025-10-05
+C172,Sneha,Male,48,Nagpur,Regular,Store_D,P305,Stationery_Item_3,Stationery,265,4,1060,Cash,Saturday,2025-10-25
+C146,Mahima,Male,40,Pune,Regular,Store_B,P287,Grocery_Item_37,Grocery,406,5,2030,Cash,Sunday,2025-09-14
+C174,Aarav,Female,49,Aurangabad,Premium,Store_B,P833,Personal Care_Item_50,Personal Care,815,3,2445,Cash,Wednesday,2025-11-05
+C103,Vikram,Female,55,Nagpur,Premium,Store_C,P403,Stationery_Item_9,Stationery,386,2,772,Wallet,Thursday,2025-11-06
+C110,Neha,Male,48,Pune,Regular,Store_C,P545,Snacks_Item_22,Snacks,514,3,1542,Card,Friday,2025-10-10
+C142,Mahima,Male,57,Nashik,Budget,Store_A,P831,Electronics_Item_35,Electronics,330,4,1320,Card,Sunday,2025-09-28
+C148,Aarav,Male,21,Aurangabad,Budget,Store_C,P964,Beverages_Item_45,Beverages,519,4,2076,Cash,Saturday,2025-10-18
+C107,Aarav,Female,23,Pune,Premium,Store_C,P276,Electronics_Item_46,Electronics,258,2,516,Wallet,Saturday,2025-09-20
+C115,Mahima,Female,37,Mumbai,Premium,Store_C,P272,Electronics_Item_19,Electronics,741,1,741,UPI,Thursday,2025-11-06
+C177,Sneha,Male,29,Jalna,Premium,Store_A,P858,Stationery_Item_48,Stationery,305,3,915,Card,Monday,2025-11-10
+C162,Arjun,Male,19,Nashik,Regular,Store_D,P622,Personal Care_Item_26,Personal Care,608,5,3040,Cash,Saturday,2025-11-01
+C197,Vikram,Male,53,Mumbai,Budget,Store_D,P772,Snacks_Item_19,Snacks,169,1,169,Card,Wednesday,2025-10-08
+C113,Isha,Female,36,Nagpur,Budget,Store_A,P297,Grocery_Item_23,Grocery,516,5,2580,Cash,Monday,2025-09-15
+C103,Vikram,Male,53,Pune,Budget,Store_C,P567,Personal Care_Item_48,Personal Care,810,3,2430,Cash,Friday,2025-11-07
+C136,Arjun,Female,24,Pune,Regular,Store_A,P351,Snacks_Item_22,Snacks,157,3,471,UPI,Sunday,2025-09-14
+C137,Raj,Female,31,Jalna,Premium,Store_D,P676,Beverages_Item_7,Beverages,470,2,940,Cash,Monday,2025-09-29
+C184,Neha,Male,36,Nagpur,Regular,Store_B,P757,Snacks_Item_5,Snacks,937,3,2811,Cash,Sunday,2025-10-05
+C194,Raj,Male,29,Pune,Budget,Store_B,P275,Stationery_Item_46,Stationery,259,5,1295,UPI,Wednesday,2025-11-05
+C181,Sneha,Female,25,Nashik,Budget,Store_A,P405,Personal Care_Item_10,Personal Care,213,3,639,Card,Tuesday,2025-10-28
+C137,Karan,Male,32,Aurangabad,Regular,Store_C,P779,Grocery_Item_10,Grocery,135,2,270,UPI,Saturday,2025-11-08
+C151,Aarav,Male,30,Aurangabad,Budget,Store_A,P704,Grocery_Item_43,Grocery,307,5,1535,UPI,Thursday,2025-10-02
+C119,Mahima,Female,28,Pune,Budget,Store_D,P812,Grocery_Item_42,Grocery,267,2,534,UPI,Thursday,2025-09-18
+C125,Neha,Male,22,Nashik,Budget,Store_D,P805,Stationery_Item_36,Stationery,106,4,424,Card,Monday,2025-11-03
+C199,Karan,Male,55,Nagpur,Budget,Store_B,P884,Personal Care_Item_40,Personal Care,518,4,2072,Cash,Friday,2025-10-17
+C172,Isha,Female,30,Nagpur,Budget,Store_A,P929,Personal Care_Item_11,Personal Care,723,3,2169,Wallet,Wednesday,2025-10-22
+C188,Sneha,Male,52,Aurangabad,Premium,Store_D,P307,Beverages_Item_3,Beverages,913,1,913,Cash,Monday,2025-09-22
+C163,Karan,Female,25,Aurangabad,Regular,Store_A,P316,Stationery_Item_15,Stationery,653,1,653,UPI,Friday,2025-10-24
+C144,Aarav,Male,48,Nashik,Budget,Store_C,P544,Personal Care_Item_23,Personal Care,143,4,572,Card,Thursday,2025-10-23
+C158,Riya,Male,45,Aurangabad,Premium,Store_D,P939,Stationery_Item_3,Stationery,800,5,4000,UPI,Thursday,2025-10-30
+C185,Riya,Female,22,Aurangabad,Premium,Store_B,P570,Personal Care_Item_44,Personal Care,259,1,259,UPI,Wednesday,2025-09-24
+C130,Riya,Female,48,Jalna,Premium,Store_C,P703,Snacks_Item_41,Snacks,913,2,1826,UPI,Sunday,2025-10-26
+C126,Raj,Male,23,Aurangabad,Budget,Store_B,P130,Beverages_Item_15,Beverages,645,5,3225,Card,Sunday,2025-11-09
+C109,Aarav,Male,37,Pune,Budget,Store_A,P179,Electronics_Item_36,Electronics,735,5,3675,Cash,Thursday,2025-09-25
+C177,Mahima,Female,45,Mumbai,Regular,Store_A,P651,Stationery_Item_48,Stationery,132,4,528,Cash,Tuesday,2025-10-21
+C128,Riya,Female,42,Aurangabad,Premium,Store_A,P837,Electronics_Item_8,Electronics,946,3,2838,Card,Saturday,2025-11-08
+C178,Arjun,Male,29,Pune,Regular,Store_B,P336,Personal Care_Item_5,Personal Care,158,4,632,Cash,Thursday,2025-10-23
+C142,Mahima,Female,30,Pune,Regular,Store_B,P661,Grocery_Item_8,Grocery,918,3,2754,UPI,Monday,2025-10-27
+C132,Neha,Male,18,Nagpur,Premium,Store_A,P203,Personal Care_Item_4,Personal Care,760,3,2280,UPI,Monday,2025-09-22
+C121,Raj,Male,24,Pune,Regular,Store_C,P753,Beverages_Item_2,Beverages,997,3,2991,Card,Saturday,2025-11-01
+C190,Vikram,Female,29,Aurangabad,Premium,Store_D,P696,Beverages_Item_47,Beverages,153,3,459,Card,Friday,2025-09-26
+C186,Karan,Male,22,Pune,Regular,Store_D,P781,Snacks_Item_14,Snacks,926,5,4630,Cash,Sunday,2025-09-14
+C133,Neha,Female,23,Mumbai,Regular,Store_C,P600,Personal Care_Item_33,Personal Care,984,2,1968,UPI,Thursday,2025-09-11
+C178,Mahima,Male,49,Nagpur,Budget,Store_B,P964,Personal Care_Item_1,Personal Care,431,2,862,Card,Thursday,2025-11-06
+C109,Karan,Male,28,Nagpur,Premium,Store_B,P376,Stationery_Item_6,Stationery,50,4,200,Card,Wednesday,2025-09-24
+C174,Neha,Male,38,Aurangabad,Budget,Store_D,P776,Stationery_Item_42,Stationery,604,5,3020,Wallet,Tuesday,2025-11-04
+C173,Aarav,Male,20,Mumbai,Budget,Store_B,P120,Snacks_Item_21,Snacks,185,1,185,Cash,Tuesday,2025-10-14
+C171,Karan,Female,25,Aurangabad,Regular,Store_C,P923,Electronics_Item_47,Electronics,916,5,4580,UPI,Friday,2025-10-03
+C158,Sneha,Female,23,Mumbai,Regular,Store_A,P223,Personal Care_Item_11,Personal Care,751,3,2253,Card,Monday,2025-09-22
+C184,Aarav,Female,34,Jalna,Premium,Store_A,P288,Grocery_Item_3,Grocery,250,1,250,Cash,Sunday,2025-09-14
+C129,Neha,Female,24,Aurangabad,Premium,Store_B,P328,Beverages_Item_27,Beverages,953,3,2859,Card,Thursday,2025-10-23
+C199,Arjun,Female,53,Nashik,Premium,Store_B,P363,Grocery_Item_26,Grocery,255,3,765,Cash,Tuesday,2025-10-21
+C109,Vikram,Male,22,Pune,Regular,Store_A,P640,Electronics_Item_12,Electronics,493,5,2465,Cash,Thursday,2025-09-11
+C114,Vikram,Male,27,Mumbai,Premium,Store_B,P333,Snacks_Item_29,Snacks,561,2,1122,Cash,Saturday,2025-09-27
+C113,Vikram,Male,59,Mumbai,Regular,Store_D,P783,Electronics_Item_1,Electronics,59,2,118,Card,Monday,2025-11-03
+C190,Vikram,Male,23,Jalna,Regular,Store_A,P703,Stationery_Item_9,Stationery,60,1,60,Card,Tuesday,2025-09-23
+C187,Karan,Male,35,Jalna,Premium,Store_D,P715,Beverages_Item_8,Beverages,966,1,966,Wallet,Friday,2025-10-03
+C128,Raj,Male,27,Nashik,Budget,Store_C,P712,Personal Care_Item_40,Personal Care,296,4,1184,Card,Sunday,2025-10-19
+C172,Aarav,Male,44,Aurangabad,Premium,Store_D,P937,Electronics_Item_16,Electronics,809,1,809,UPI,Tuesday,2025-09-16
+C164,Neha,Female,60,Nashik,Budget,Store_C,P580,Beverages_Item_35,Beverages,634,3,1902,UPI,Monday,2025-09-15
+C155,Neha,Female,27,Jalna,Budget,Store_D,P367,Snacks_Item_27,Snacks,921,1,921,Wallet,Sunday,2025-10-12
+C100,Mahima,Female,53,Jalna,Regular,Store_A,P226,Electronics_Item_32,Electronics,442,1,442,UPI,Thursday,2025-10-09
+C161,Raj,Male,60,Jalna,Budget,Store_B,P837,Snacks_Item_47,Snacks,91,1,91,Cash,Monday,2025-10-27
+C175,Arjun,Female,47,Mumbai,Premium,Store_A,P692,Beverages_Item_9,Beverages,205,5,1025,Cash,Thursday,2025-10-09
+C123,Isha,Male,53,Pune,Budget,Store_A,P815,Personal Care_Item_14,Personal Care,676,5,3380,Cash,Sunday,2025-10-26
+C119,Sneha,Male,56,Nashik,Premium,Store_C,P677,Personal Care_Item_40,Personal Care,182,2,364,Wallet,Monday,2025-10-27
+C182,Aarav,Male,57,Jalna,Regular,Store_D,P531,Stationery_Item_9,Stationery,651,5,3255,Cash,Thursday,2025-09-18
+C167,Aarav,Male,52,Nashik,Regular,Store_C,P111,Grocery_Item_33,Grocery,916,5,4580,Cash,Tuesday,2025-09-30
+C135,Sneha,Female,42,Mumbai,Regular,Store_C,P472,Personal Care_Item_12,Personal Care,919,5,4595,Cash,Tuesday,2025-09-16
+C110,Riya,Female,57,Nagpur,Regular,Store_B,P241,Stationery_Item_14,Stationery,951,5,4755,Cash,Wednesday,2025-10-01
+C194,Isha,Male,29,Mumbai,Budget,Store_B,P223,Snacks_Item_32,Snacks,293,2,586,Card,Tuesday,2025-11-04
+C111,Mahima,Female,47,Nashik,Budget,Store_C,P994,Beverages_Item_17,Beverages,737,2,1474,Wallet,Monday,2025-09-29
+C112,Sneha,Female,27,Jalna,Regular,Store_D,P738,Stationery_Item_15,Stationery,738,2,1476,Wallet,Thursday,2025-10-09
+C123,Mahima,Female,60,Jalna,Premium,Store_B,P943,Beverages_Item_27,Beverages,349,4,1396,UPI,Tuesday,2025-09-30
+C165,Aarav,Male,40,Jalna,Budget,Store_B,P596,Beverages_Item_22,Beverages,477,4,1908,Cash,Monday,2025-10-13
+C117,Arjun,Male,36,Aurangabad,Budget,Store_C,P277,Beverages_Item_44,Beverages,963,3,2889,UPI,Sunday,2025-11-09
+C103,Mahima,Male,36,Jalna,Regular,Store_C,P890,Personal Care_Item_19,Personal Care,715,5,3575,Card,Monday,2025-10-13
+C158,Raj,Male,45,Jalna,Budget,Store_B,P366,Stationery_Item_36,Stationery,468,4,1872,Card,Saturday,2025-09-13
+C185,Karan,Female,48,Jalna,Premium,Store_D,P256,Snacks_Item_24,Snacks,159,5,795,Card,Sunday,2025-09-28
+C139,Neha,Male,31,Nashik,Budget,Store_B,P707,Personal Care_Item_40,Personal Care,277,2,554,Card,Friday,2025-10-03
+C128,Neha,Female,25,Nashik,Budget,Store_D,P646,Electronics_Item_9,Electronics,896,1,896,UPI,Thursday,2025-09-25
+C181,Isha,Female,59,Aurangabad,Budget,Store_D,P927,Stationery_Item_7,Stationery,672,3,2016,UPI,Sunday,2025-09-14
+C152,Aarav,Male,57,Jalna,Budget,Store_A,P134,Grocery_Item_48,Grocery,88,2,176,UPI,Tuesday,2025-09-16
+C135,Vikram,Male,59,Nagpur,Regular,Store_C,P552,Grocery_Item_26,Grocery,766,5,3830,Card,Friday,2025-10-24
+C142,Arjun,Female,52,Jalna,Budget,Store_D,P599,Personal Care_Item_39,Personal Care,318,1,318,UPI,Wednesday,2025-09-24
+C134,Raj,Female,31,Nagpur,Regular,Store_D,P783,Beverages_Item_7,Beverages,558,2,1116,UPI,Sunday,2025-09-14
+C197,Raj,Female,52,Aurangabad,Regular,Store_A,P126,Electronics_Item_33,Electronics,645,2,1290,UPI,Sunday,2025-09-28
+C195,Arjun,Female,34,Aurangabad,Regular,Store_A,P349,Personal Care_Item_48,Personal Care,738,1,738,Cash,Saturday,2025-10-25
+C169,Sneha,Female,47,Jalna,Budget,Store_C,P866,Snacks_Item_2,Snacks,694,2,1388,Card,Thursday,2025-10-23
+C142,Mahima,Male,44,Jalna,Regular,Store_A,P236,Stationery_Item_45,Stationery,21,3,63,Cash,Sunday,2025-10-12
+C114,Karan,Female,25,Nashik,Regular,Store_B,P179,Electronics_Item_17,Electronics,147,3,441,Card,Wednesday,2025-10-22
+C167,Isha,Male,55,Jalna,Premium,Store_A,P756,Personal Care_Item_50,Personal Care,815,5,4075,Card,Thursday,2025-09-18
+C111,Riya,Male,55,Nashik,Budget,Store_B,P506,Beverages_Item_50,Beverages,93,4,372,Cash,Thursday,2025-10-02
+C112,Karan,Male,60,Nagpur,Budget,Store_A,P138,Electronics_Item_49,Electronics,102,3,306,UPI,Sunday,2025-10-12
+C196,Sneha,Female,25,Pune,Budget,Store_D,P588,Stationery_Item_18,Stationery,43,1,43,UPI,Sunday,2025-10-12
+C108,Arjun,Female,31,Mumbai,Premium,Store_C,P898,Electronics_Item_3,Electronics,239,3,717,UPI,Thursday,2025-09-11
+C167,Karan,Female,27,Jalna,Premium,Store_D,P483,Stationery_Item_42,Stationery,172,1,172,UPI,Saturday,2025-09-27
+C129,Mahima,Male,31,Jalna,Budget,Store_A,P165,Electronics_Item_3,Electronics,562,1,562,Card,Monday,2025-10-06
+C129,Riya,Male,57,Nashik,Budget,Store_A,P341,Personal Care_Item_42,Personal Care,838,3,2514,UPI,Friday,2025-10-24
+C192,Raj,Male,44,Pune,Budget,Store_D,P161,Personal Care_Item_18,Personal Care,702,3,2106,Card,Saturday,2025-10-25
+C194,Riya,Male,44,Mumbai,Premium,Store_D,P523,Snacks_Item_16,Snacks,965,2,1930,Card,Thursday,2025-10-16
+C123,Isha,Male,25,Mumbai,Premium,Store_C,P730,Electronics_Item_42,Electronics,402,5,2010,Cash,Wednesday,2025-10-01
+C148,Isha,Male,36,Mumbai,Regular,Store_D,P900,Grocery_Item_30,Grocery,921,5,4605,UPI,Wednesday,2025-09-24
+C113,Aarav,Male,59,Pune,Premium,Store_C,P477,Grocery_Item_13,Grocery,621,2,1242,Cash,Thursday,2025-10-09
+C192,Neha,Male,55,Jalna,Budget,Store_C,P520,Grocery_Item_33,Grocery,736,1,736,UPI,Friday,2025-10-31
+C145,Aarav,Male,52,Pune,Regular,Store_B,P547,Personal Care_Item_16,Personal Care,176,2,352,Card,Thursday,2025-10-23
+C178,Raj,Male,21,Mumbai,Budget,Store_A,P665,Snacks_Item_27,Snacks,79,5,395,Wallet,Monday,2025-10-13
+C190,Karan,Female,40,Jalna,Regular,Store_A,P944,Snacks_Item_7,Snacks,858,1,858,Cash,Monday,2025-09-15
+C153,Karan,Male,19,Mumbai,Premium,Store_C,P618,Snacks_Item_50,Snacks,503,2,1006,UPI,Thursday,2025-10-30
+C111,Riya,Male,20,Pune,Budget,Store_A,P820,Snacks_Item_22,Snacks,818,4,3272,Card,Friday,2025-10-17
+C109,Karan,Male,43,Nagpur,Premium,Store_A,P794,Electronics_Item_30,Electronics,622,1,622,Cash,Friday,2025-10-03
+C188,Neha,Male,45,Nagpur,Premium,Store_C,P106,Stationery_Item_47,Stationery,840,1,840,UPI,Friday,2025-10-31
+C171,Raj,Male,34,Aurangabad,Premium,Store_C,P589,Electronics_Item_42,Electronics,407,1,407,UPI,Saturday,2025-10-25
+C119,Mahima,Female,27,Mumbai,Regular,Store_A,P934,Stationery_Item_3,Stationery,602,2,1204,Wallet,Monday,2025-11-03
+C158,Mahima,Female,37,Nagpur,Budget,Store_C,P827,Beverages_Item_1,Beverages,188,1,188,Wallet,Sunday,2025-11-09
+C171,Raj,Female,44,Nashik,Premium,Store_B,P114,Stationery_Item_3,Stationery,424,3,1272,Card,Friday,2025-09-12
+C191,Karan,Male,51,Pune,Budget,Store_B,P683,Beverages_Item_20,Beverages,859,2,1718,Cash,Friday,2025-09-12
+C159,Sneha,Female,24,Nashik,Premium,Store_B,P126,Stationery_Item_35,Stationery,335,4,1340,Wallet,Friday,2025-11-07
+C187,Mahima,Male,42,Pune,Regular,Store_C,P877,Grocery_Item_12,Grocery,584,2,1168,Cash,Wednesday,2025-10-29
+C108,Neha,Female,23,Jalna,Premium,Store_D,P809,Stationery_Item_22,Stationery,551,3,1653,Wallet,Sunday,2025-11-09
+C157,Aarav,Female,43,Aurangabad,Premium,Store_C,P628,Stationery_Item_24,Stationery,92,2,184,Cash,Thursday,2025-09-11
+C153,Arjun,Female,53,Nashik,Regular,Store_A,P777,Grocery_Item_7,Grocery,221,5,1105,Wallet,Thursday,2025-09-11
+C101,Karan,Female,60,Nashik,Premium,Store_A,P148,Beverages_Item_45,Beverages,75,3,225,UPI,Friday,2025-11-07
+C173,Vikram,Female,54,Pune,Budget,Store_A,P507,Stationery_Item_44,Stationery,657,2,1314,Cash,Thursday,2025-10-16
+C183,Aarav,Female,21,Nashik,Regular,Store_B,P646,Grocery_Item_19,Grocery,542,4,2168,Card,Saturday,2025-09-13
+C174,Neha,Female,26,Pune,Premium,Store_D,P734,Stationery_Item_8,Stationery,740,3,2220,Card,Friday,2025-09-26
+C160,Neha,Female,50,Aurangabad,Premium,Store_A,P866,Snacks_Item_50,Snacks,620,1,620,Cash,Saturday,2025-10-04
+C144,Raj,Female,47,Mumbai,Budget,Store_D,P583,Personal Care_Item_39,Personal Care,934,1,934,UPI,Sunday,2025-10-19
+C141,Neha,Male,45,Jalna,Premium,Store_B,P244,Electronics_Item_39,Electronics,268,4,1072,UPI,Sunday,2025-11-02
+C120,Aarav,Female,32,Nagpur,Regular,Store_B,P397,Electronics_Item_4,Electronics,871,2,1742,Card,Friday,2025-10-03
+C170,Arjun,Male,33,Jalna,Budget,Store_D,P317,Stationery_Item_21,Stationery,204,3,612,Cash,Tuesday,2025-10-21
+C105,Vikram,Female,39,Jalna,Premium,Store_A,P502,Grocery_Item_34,Grocery,947,3,2841,Card,Tuesday,2025-10-28
+C187,Neha,Female,53,Aurangabad,Budget,Store_D,P361,Beverages_Item_28,Beverages,142,2,284,Card,Tuesday,2025-10-07
+C156,Riya,Female,28,Pune,Budget,Store_A,P803,Grocery_Item_27,Grocery,724,1,724,Cash,Tuesday,2025-10-28
+C184,Arjun,Male,44,Mumbai,Regular,Store_A,P204,Snacks_Item_48,Snacks,431,5,2155,Card,Wednesday,2025-11-05
+C122,Sneha,Male,59,Jalna,Budget,Store_A,P257,Grocery_Item_11,Grocery,190,1,190,Card,Tuesday,2025-10-28
+C179,Sneha,Female,20,Nagpur,Budget,Store_B,P254,Personal Care_Item_47,Personal Care,590,3,1770,Wallet,Wednesday,2025-10-29
+C163,Riya,Female,60,Pune,Budget,Store_B,P588,Beverages_Item_25,Beverages,990,5,4950,Wallet,Saturday,2025-10-18
+C117,Sneha,Male,48,Nagpur,Budget,Store_D,P156,Stationery_Item_39,Stationery,407,2,814,UPI,Tuesday,2025-09-23
+C131,Vikram,Male,53,Nagpur,Premium,Store_A,P505,Grocery_Item_45,Grocery,41,5,205,Card,Tuesday,2025-11-04
+C117,Neha,Male,56,Nagpur,Budget,Store_B,P438,Personal Care_Item_19,Personal Care,63,2,126,UPI,Friday,2025-09-26
+C141,Raj,Female,43,Nashik,Regular,Store_C,P908,Snacks_Item_37,Snacks,963,4,3852,Wallet,Friday,2025-09-19
+C179,Aarav,Male,31,Pune,Premium,Store_B,P863,Electronics_Item_19,Electronics,358,1,358,Card,Monday,2025-10-20
+C134,Arjun,Male,59,Nashik,Budget,Store_A,P973,Beverages_Item_12,Beverages,193,2,386,Cash,Saturday,2025-09-20
+C135,Riya,Female,25,Nashik,Premium,Store_D,P908,Beverages_Item_24,Beverages,925,4,3700,UPI,Monday,2025-10-06
+C154,Karan,Male,54,Nashik,Premium,Store_D,P669,Snacks_Item_43,Snacks,867,5,4335,Wallet,Monday,2025-11-03
+C145,Aarav,Female,52,Mumbai,Budget,Store_A,P840,Snacks_Item_31,Snacks,306,5,1530,Wallet,Wednesday,2025-11-05
+C153,Sneha,Male,57,Nagpur,Budget,Store_B,P997,Stationery_Item_48,Stationery,488,4,1952,Cash,Thursday,2025-10-16
+C191,Vikram,Male,28,Mumbai,Regular,Store_C,P685,Grocery_Item_34,Grocery,862,5,4310,UPI,Saturday,2025-10-11
+C128,Aarav,Male,47,Mumbai,Budget,Store_C,P209,Beverages_Item_12,Beverages,824,1,824,Cash,Monday,2025-10-13
+C122,Aarav,Male,18,Nashik,Premium,Store_D,P350,Grocery_Item_35,Grocery,214,5,1070,UPI,Thursday,2025-10-23
+C176,Aarav,Female,29,Nagpur,Regular,Store_D,P325,Beverages_Item_37,Beverages,427,1,427,Card,Wednesday,2025-10-01
+C101,Mahima,Male,58,Nashik,Regular,Store_C,P427,Personal Care_Item_49,Personal Care,708,4,2832,UPI,Tuesday,2025-10-28
+C104,Raj,Male,31,Nagpur,Regular,Store_B,P193,Electronics_Item_38,Electronics,721,1,721,Wallet,Thursday,2025-10-02
+C147,Riya,Female,38,Jalna,Regular,Store_D,P340,Grocery_Item_27,Grocery,245,2,490,UPI,Wednesday,2025-10-22
+C148,Aarav,Male,38,Aurangabad,Budget,Store_C,P986,Grocery_Item_24,Grocery,697,1,697,Card,Thursday,2025-09-11
+C148,Mahima,Male,25,Aurangabad,Budget,Store_D,P327,Grocery_Item_5,Grocery,862,5,4310,Card,Wednesday,2025-09-17
+C192,Mahima,Female,36,Jalna,Premium,Store_B,P307,Grocery_Item_8,Grocery,743,5,3715,Cash,Sunday,2025-10-26
+C149,Isha,Male,20,Pune,Premium,Store_A,P675,Personal Care_Item_13,Personal Care,906,3,2718,Wallet,Monday,2025-09-22
+C137,Arjun,Male,47,Aurangabad,Budget,Store_A,P831,Snacks_Item_35,Snacks,266,3,798,Card,Tuesday,2025-10-21
+C126,Vikram,Female,29,Pune,Budget,Store_A,P405,Grocery_Item_15,Grocery,896,2,1792,Cash,Thursday,2025-10-30
+C161,Sneha,Female,47,Aurangabad,Premium,Store_D,P317,Stationery_Item_20,Stationery,266,1,266,UPI,Sunday,2025-09-14
+C101,Vikram,Female,51,Mumbai,Budget,Store_A,P216,Electronics_Item_16,Electronics,669,3,2007,Cash,Saturday,2025-10-11
+C198,Vikram,Male,30,Nashik,Premium,Store_D,P377,Grocery_Item_24,Grocery,475,5,2375,Card,Monday,2025-09-22
+C143,Riya,Male,52,Nashik,Regular,Store_D,P788,Beverages_Item_50,Beverages,836,4,3344,Wallet,Sunday,2025-09-14
+C151,Neha,Male,20,Nashik,Premium,Store_A,P167,Personal Care_Item_44,Personal Care,288,2,576,Wallet,Saturday,2025-10-11
+C111,Raj,Male,25,Nagpur,Budget,Store_B,P128,Electronics_Item_48,Electronics,744,2,1488,Wallet,Friday,2025-09-19
+C175,Karan,Female,52,Nagpur,Budget,Store_D,P667,Electronics_Item_41,Electronics,569,2,1138,Cash,Monday,2025-09-22
+C105,Mahima,Male,40,Jalna,Regular,Store_D,P594,Personal Care_Item_10,Personal Care,537,1,537,Cash,Wednesday,2025-09-24
+C173,Karan,Female,38,Pune,Budget,Store_A,P438,Personal Care_Item_50,Personal Care,56,5,280,Card,Saturday,2025-11-01
+C149,Vikram,Male,46,Nashik,Budget,Store_A,P294,Electronics_Item_40,Electronics,360,1,360,Cash,Thursday,2025-10-23
+C172,Karan,Male,58,Nagpur,Regular,Store_D,P556,Stationery_Item_11,Stationery,598,4,2392,Card,Sunday,2025-09-28
+C122,Arjun,Male,36,Mumbai,Premium,Store_A,P853,Snacks_Item_32,Snacks,601,4,2404,Wallet,Tuesday,2025-09-30
+C187,Karan,Male,46,Mumbai,Premium,Store_C,P698,Snacks_Item_10,Snacks,119,2,238,Wallet,Friday,2025-10-17
+C182,Neha,Male,24,Nagpur,Regular,Store_B,P170,Beverages_Item_4,Beverages,318,2,636,Wallet,Saturday,2025-10-11
+C126,Aarav,Male,59,Mumbai,Regular,Store_B,P929,Beverages_Item_10,Beverages,929,1,929,UPI,Friday,2025-10-10
+C185,Riya,Male,58,Nashik,Regular,Store_D,P779,Stationery_Item_16,Stationery,843,1,843,Wallet,Sunday,2025-10-12
+C184,Sneha,Female,59,Aurangabad,Budget,Store_C,P712,Personal Care_Item_32,Personal Care,272,4,1088,Wallet,Sunday,2025-10-12
+C152,Aarav,Male,39,Nashik,Budget,Store_A,P873,Electronics_Item_31,Electronics,958,1,958,Wallet,Friday,2025-09-26
+C162,Isha,Female,36,Nagpur,Budget,Store_D,P334,Snacks_Item_31,Snacks,92,5,460,Card,Monday,2025-10-20
+C112,Riya,Male,35,Pune,Regular,Store_D,P575,Grocery_Item_43,Grocery,35,5,175,Card,Wednesday,2025-10-22
+C164,Isha,Male,28,Mumbai,Premium,Store_A,P955,Snacks_Item_6,Snacks,654,3,1962,Wallet,Sunday,2025-09-14
+C130,Vikram,Female,38,Pune,Premium,Store_B,P813,Electronics_Item_8,Electronics,85,2,170,UPI,Wednesday,2025-10-22
+C164,Raj,Male,55,Jalna,Regular,Store_C,P299,Stationery_Item_14,Stationery,955,1,955,UPI,Tuesday,2025-10-14
+C161,Karan,Female,26,Mumbai,Budget,Store_D,P305,Grocery_Item_26,Grocery,961,3,2883,UPI,Friday,2025-09-12
+C198,Sneha,Female,51,Nashik,Budget,Store_D,P996,Beverages_Item_30,Beverages,551,3,1653,Cash,Saturday,2025-11-08
+C178,Riya,Male,42,Nagpur,Premium,Store_B,P280,Snacks_Item_17,Snacks,438,3,1314,Wallet,Wednesday,2025-10-01
+C108,Aarav,Female,44,Nagpur,Regular,Store_A,P886,Snacks_Item_30,Snacks,494,3,1482,UPI,Sunday,2025-10-19
+C192,Raj,Female,35,Nashik,Premium,Store_A,P478,Electronics_Item_9,Electronics,275,4,1100,Wallet,Saturday,2025-10-25
+C191,Arjun,Female,20,Aurangabad,Premium,Store_D,P396,Stationery_Item_19,Stationery,209,5,1045,Card,Monday,2025-09-29
+C119,Karan,Female,50,Nashik,Regular,Store_A,P281,Snacks_Item_13,Snacks,158,4,632,Wallet,Thursday,2025-10-23
+C136,Mahima,Female,39,Pune,Regular,Store_A,P887,Grocery_Item_18,Grocery,27,3,81,Wallet,Monday,2025-10-06
+C194,Aarav,Female,51,Jalna,Regular,Store_D,P186,Electronics_Item_34,Electronics,313,3,939,Cash,Thursday,2025-10-09
+C164,Riya,Male,50,Nashik,Premium,Store_C,P512,Electronics_Item_49,Electronics,119,5,595,Wallet,Saturday,2025-09-13
+C183,Isha,Male,56,Nashik,Premium,Store_D,P281,Electronics_Item_23,Electronics,990,4,3960,Cash,Sunday,2025-10-19
+C176,Vikram,Male,33,Jalna,Budget,Store_B,P777,Electronics_Item_24,Electronics,909,1,909,UPI,Monday,2025-10-06
+C163,Karan,Male,46,Nashik,Budget,Store_B,P598,Stationery_Item_6,Stationery,160,3,480,Cash,Friday,2025-10-24
+C174,Karan,Female,37,Jalna,Premium,Store_D,P167,Stationery_Item_11,Stationery,717,5,3585,Cash,Sunday,2025-10-19
+C186,Raj,Female,52,Nagpur,Budget,Store_A,P526,Stationery_Item_42,Stationery,668,4,2672,Cash,Wednesday,2025-09-17
+C185,Karan,Female,46,Pune,Premium,Store_B,P976,Stationery_Item_30,Stationery,236,2,472,UPI,Tuesday,2025-09-16
+C162,Vikram,Female,56,Pune,Budget,Store_D,P943,Personal Care_Item_41,Personal Care,908,4,3632,Card,Monday,2025-11-10
+C106,Isha,Male,49,Mumbai,Budget,Store_D,P412,Personal Care_Item_47,Personal Care,350,3,1050,Wallet,Monday,2025-10-06
+C105,Karan,Male,47,Jalna,Regular,Store_C,P797,Snacks_Item_46,Snacks,780,5,3900,Cash,Thursday,2025-09-11
+C153,Arjun,Male,35,Mumbai,Regular,Store_B,P590,Grocery_Item_12,Grocery,750,3,2250,Wallet,Wednesday,2025-10-08
+C163,Riya,Male,37,Nagpur,Regular,Store_D,P148,Beverages_Item_34,Beverages,378,2,756,UPI,Sunday,2025-09-14
+C139,Mahima,Female,33,Pune,Regular,Store_B,P635,Stationery_Item_38,Stationery,588,4,2352,UPI,Friday,2025-10-10
+C142,Riya,Male,23,Nashik,Budget,Store_D,P751,Snacks_Item_38,Snacks,644,4,2576,Card,Saturday,2025-09-13
+C109,Sneha,Female,60,Nashik,Premium,Store_A,P560,Personal Care_Item_25,Personal Care,117,4,468,Card,Saturday,2025-09-13
+C106,Aarav,Female,18,Nagpur,Regular,Store_C,P829,Snacks_Item_18,Snacks,616,2,1232,Wallet,Saturday,2025-10-04
+C123,Isha,Male,29,Mumbai,Budget,Store_D,P959,Personal Care_Item_14,Personal Care,702,4,2808,Card,Wednesday,2025-10-01
+C115,Arjun,Male,18,Pune,Premium,Store_A,P852,Electronics_Item_22,Electronics,22,5,110,Wallet,Friday,2025-10-10
+C138,Karan,Female,37,Aurangabad,Regular,Store_D,P187,Snacks_Item_40,Snacks,473,3,1419,Cash,Thursday,2025-09-25
+C107,Raj,Male,45,Jalna,Premium,Store_C,P337,Stationery_Item_8,Stationery,983,4,3932,Wallet,Monday,2025-09-15
+C126,Mahima,Female,52,Nashik,Regular,Store_A,P728,Grocery_Item_13,Grocery,917,2,1834,UPI,Friday,2025-10-17
+C166,Neha,Female,45,Nashik,Premium,Store_C,P397,Electronics_Item_4,Electronics,855,5,4275,Wallet,Sunday,2025-10-12
+C135,Neha,Female,52,Aurangabad,Regular,Store_B,P586,Personal Care_Item_36,Personal Care,598,4,2392,Cash,Saturday,2025-09-13
+C190,Arjun,Female,57,Pune,Premium,Store_C,P257,Snacks_Item_36,Snacks,35,1,35,Cash,Tuesday,2025-09-23
+C185,Raj,Male,56,Jalna,Regular,Store_C,P456,Grocery_Item_40,Grocery,863,5,4315,Card,Monday,2025-10-27
+C170,Raj,Female,43,Nagpur,Regular,Store_D,P888,Stationery_Item_35,Stationery,549,5,2745,UPI,Friday,2025-11-07
+C154,Mahima,Male,55,Aurangabad,Regular,Store_B,P616,Grocery_Item_8,Grocery,98,5,490,Wallet,Monday,2025-10-27
+C194,Aarav,Male,29,Pune,Budget,Store_B,P880,Snacks_Item_22,Snacks,983,4,3932,Cash,Wednesday,2025-10-29
+C150,Isha,Male,34,Aurangabad,Premium,Store_B,P482,Beverages_Item_39,Beverages,702,3,2106,Card,Saturday,2025-10-04
+C158,Aarav,Male,35,Jalna,Regular,Store_A,P371,Stationery_Item_34,Stationery,659,3,1977,Wallet,Saturday,2025-10-04
+C162,Riya,Male,35,Pune,Premium,Store_C,P144,Stationery_Item_33,Stationery,684,2,1368,Card,Monday,2025-11-03
+C151,Aarav,Female,37,Nashik,Budget,Store_C,P783,Stationery_Item_39,Stationery,696,5,3480,Cash,Thursday,2025-10-02
+C144,Vikram,Female,31,Aurangabad,Premium,Store_B,P950,Grocery_Item_29,Grocery,287,5,1435,UPI,Monday,2025-10-06
+C144,Vikram,Male,51,Mumbai,Regular,Store_A,P336,Grocery_Item_3,Grocery,914,3,2742,Wallet,Saturday,2025-10-11
+C149,Sneha,Female,48,Nashik,Budget,Store_A,P700,Beverages_Item_10,Beverages,85,1,85,Card,Wednesday,2025-09-24
+C170,Vikram,Male,59,Nashik,Budget,Store_B,P598,Beverages_Item_43,Beverages,116,4,464,UPI,Saturday,2025-09-27
+C150,Sneha,Female,38,Mumbai,Regular,Store_B,P679,Snacks_Item_1,Snacks,694,5,3470,Cash,Wednesday,2025-10-29
+C178,Mahima,Female,41,Jalna,Premium,Store_D,P532,Beverages_Item_12,Beverages,41,5,205,Cash,Tuesday,2025-10-07
+C117,Isha,Female,23,Mumbai,Regular,Store_C,P880,Electronics_Item_41,Electronics,920,5,4600,Wallet,Saturday,2025-10-25
+C133,Karan,Male,53,Nashik,Premium,Store_D,P481,Grocery_Item_27,Grocery,779,2,1558,UPI,Wednesday,2025-11-05
+C148,Riya,Male,45,Jalna,Regular,Store_A,P343,Snacks_Item_36,Snacks,340,1,340,UPI,Tuesday,2025-09-23
+C140,Karan,Female,43,Jalna,Premium,Store_B,P231,Stationery_Item_28,Stationery,382,1,382,Wallet,Saturday,2025-11-01
+C127,Isha,Female,57,Nashik,Budget,Store_D,P153,Snacks_Item_1,Snacks,621,3,1863,Cash,Monday,2025-11-03
+C197,Riya,Female,26,Nashik,Budget,Store_B,P650,Personal Care_Item_33,Personal Care,937,3,2811,Card,Sunday,2025-10-12
+C109,Karan,Female,55,Jalna,Budget,Store_A,P148,Snacks_Item_7,Snacks,87,2,174,Cash,Tuesday,2025-09-30
+C112,Neha,Male,58,Mumbai,Premium,Store_A,P362,Snacks_Item_29,Snacks,385,5,1925,Wallet,Wednesday,2025-10-29
+C112,Sneha,Male,52,Pune,Regular,Store_A,P136,Personal Care_Item_1,Personal Care,373,2,746,Card,Friday,2025-09-19
+C169,Mahima,Female,38,Mumbai,Budget,Store_C,P894,Snacks_Item_19,Snacks,588,1,588,Wallet,Monday,2025-09-22
+C127,Mahima,Male,31,Nagpur,Premium,Store_D,P844,Stationery_Item_46,Stationery,617,2,1234,Wallet,Friday,2025-09-12
+C175,Neha,Male,35,Mumbai,Regular,Store_D,P569,Beverages_Item_14,Beverages,969,2,1938,Wallet,Wednesday,2025-10-08
+C112,Isha,Male,57,Pune,Budget,Store_C,P508,Personal Care_Item_6,Personal Care,73,2,146,Card,Wednesday,2025-10-22
+C139,Raj,Female,20,Mumbai,Regular,Store_C,P687,Electronics_Item_15,Electronics,752,5,3760,UPI,Sunday,2025-11-09
+C158,Aarav,Male,44,Pune,Premium,Store_D,P459,Stationery_Item_26,Stationery,772,1,772,Cash,Saturday,2025-10-11
+C169,Sneha,Male,54,Mumbai,Premium,Store_A,P157,Stationery_Item_49,Stationery,454,4,1816,Wallet,Saturday,2025-09-13
+C118,Arjun,Female,32,Aurangabad,Budget,Store_B,P379,Stationery_Item_31,Stationery,131,5,655,Wallet,Sunday,2025-10-05
+C122,Neha,Male,29,Nashik,Budget,Store_B,P318,Personal Care_Item_4,Personal Care,569,1,569,Cash,Thursday,2025-10-09
+C167,Isha,Male,33,Pune,Regular,Store_D,P989,Beverages_Item_42,Beverages,106,4,424,Card,Friday,2025-10-31
+C133,Vikram,Female,38,Pune,Budget,Store_B,P524,Grocery_Item_38,Grocery,264,2,528,Wallet,Saturday,2025-10-25
+C137,Arjun,Male,41,Nashik,Premium,Store_D,P788,Personal Care_Item_27,Personal Care,914,1,914,UPI,Monday,2025-09-29
+C197,Isha,Male,48,Jalna,Regular,Store_A,P365,Beverages_Item_32,Beverages,805,1,805,Cash,Thursday,2025-10-30
+C119,Karan,Male,35,Jalna,Regular,Store_D,P706,Personal Care_Item_22,Personal Care,551,3,1653,Card,Saturday,2025-09-27
+C164,Isha,Female,50,Mumbai,Budget,Store_D,P646,Grocery_Item_1,Grocery,848,3,2544,Cash,Tuesday,2025-10-14
+C132,Sneha,Male,38,Mumbai,Budget,Store_B,P108,Personal Care_Item_50,Personal Care,937,5,4685,UPI,Thursday,2025-09-25
+C183,Riya,Male,51,Mumbai,Premium,Store_D,P576,Personal Care_Item_4,Personal Care,623,3,1869,Card,Wednesday,2025-09-17
+C104,Raj,Female,42,Aurangabad,Regular,Store_C,P404,Stationery_Item_4,Stationery,821,2,1642,Card,Thursday,2025-09-18
+C125,Vikram,Male,51,Mumbai,Regular,Store_B,P837,Personal Care_Item_18,Personal Care,200,3,600,Cash,Thursday,2025-11-06
+C148,Aarav,Female,54,Mumbai,Premium,Store_A,P161,Electronics_Item_19,Electronics,32,4,128,UPI,Saturday,2025-09-20
+C158,Karan,Male,43,Pune,Budget,Store_C,P567,Electronics_Item_46,Electronics,139,1,139,Wallet,Saturday,2025-10-25
+C104,Karan,Female,52,Pune,Premium,Store_C,P155,Electronics_Item_39,Electronics,992,1,992,Wallet,Monday,2025-09-29
+C166,Neha,Male,29,Pune,Regular,Store_A,P691,Beverages_Item_31,Beverages,409,3,1227,Card,Tuesday,2025-09-30
+C180,Riya,Male,32,Aurangabad,Budget,Store_B,P202,Snacks_Item_43,Snacks,513,4,2052,UPI,Saturday,2025-10-25
+C134,Raj,Female,32,Nagpur,Regular,Store_B,P386,Electronics_Item_31,Electronics,449,3,1347,Card,Monday,2025-10-06
+C161,Sneha,Male,22,Pune,Budget,Store_C,P243,Grocery_Item_23,Grocery,200,3,600,Cash,Friday,2025-09-26
+C190,Aarav,Male,44,Nagpur,Budget,Store_C,P111,Personal Care_Item_34,Personal Care,52,4,208,Card,Sunday,2025-10-05
+C121,Raj,Female,44,Nashik,Budget,Store_A,P552,Personal Care_Item_30,Personal Care,81,3,243,UPI,Thursday,2025-10-02
+C134,Arjun,Female,47,Aurangabad,Premium,Store_C,P119,Snacks_Item_43,Snacks,884,2,1768,UPI,Tuesday,2025-11-04
+C103,Aarav,Female,34,Nashik,Budget,Store_C,P176,Personal Care_Item_29,Personal Care,190,3,570,Card,Tuesday,2025-10-14
+C101,Aarav,Male,37,Nashik,Regular,Store_B,P277,Personal Care_Item_20,Personal Care,863,2,1726,Cash,Friday,2025-09-19
+C132,Karan,Male,47,Nagpur,Budget,Store_B,P782,Grocery_Item_22,Grocery,700,5,3500,UPI,Saturday,2025-09-20
+C194,Raj,Female,48,Nashik,Premium,Store_C,P279,Snacks_Item_8,Snacks,322,3,966,UPI,Friday,2025-09-26
+C158,Riya,Male,43,Nagpur,Budget,Store_C,P883,Beverages_Item_45,Beverages,953,4,3812,Card,Sunday,2025-10-12
+C180,Sneha,Female,33,Jalna,Regular,Store_A,P598,Electronics_Item_14,Electronics,100,1,100,UPI,Friday,2025-10-17
+C166,Riya,Female,59,Nashik,Budget,Store_B,P357,Personal Care_Item_10,Personal Care,759,1,759,Wallet,Thursday,2025-10-09
+C124,Isha,Male,18,Nashik,Premium,Store_D,P720,Electronics_Item_23,Electronics,705,4,2820,Wallet,Wednesday,2025-10-15
+C105,Vikram,Female,51,Nagpur,Premium,Store_C,P985,Grocery_Item_35,Grocery,614,1,614,Cash,Wednesday,2025-10-15
+C169,Arjun,Female,33,Mumbai,Regular,Store_D,P516,Beverages_Item_19,Beverages,948,1,948,Cash,Saturday,2025-11-01
+C114,Neha,Male,49,Nashik,Regular,Store_B,P626,Beverages_Item_33,Beverages,375,3,1125,Wallet,Sunday,2025-11-02
+C110,Neha,Female,38,Nagpur,Regular,Store_B,P116,Grocery_Item_37,Grocery,254,3,762,Card,Monday,2025-10-06
+C117,Mahima,Female,26,Nagpur,Budget,Store_B,P680,Electronics_Item_29,Electronics,991,4,3964,UPI,Friday,2025-10-31
+C197,Riya,Female,46,Mumbai,Premium,Store_B,P552,Personal Care_Item_24,Personal Care,791,5,3955,UPI,Monday,2025-11-03
+C106,Karan,Female,51,Nashik,Budget,Store_B,P721,Personal Care_Item_46,Personal Care,995,4,3980,Cash,Monday,2025-10-27
+C175,Karan,Male,32,Aurangabad,Regular,Store_B,P832,Grocery_Item_6,Grocery,484,5,2420,Card,Wednesday,2025-11-05
+C120,Karan,Female,51,Jalna,Premium,Store_A,P626,Snacks_Item_43,Snacks,51,5,255,Cash,Friday,2025-10-17
+C164,Neha,Female,18,Jalna,Regular,Store_A,P948,Electronics_Item_20,Electronics,273,5,1365,Cash,Thursday,2025-10-30
+C103,Vikram,Female,25,Aurangabad,Regular,Store_D,P119,Grocery_Item_8,Grocery,56,3,168,Cash,Tuesday,2025-09-16
+C157,Karan,Female,28,Nashik,Premium,Store_C,P828,Snacks_Item_30,Snacks,679,4,2716,Card,Monday,2025-11-10
+C120,Neha,Female,21,Aurangabad,Regular,Store_C,P765,Snacks_Item_15,Snacks,760,4,3040,UPI,Monday,2025-09-15
+C184,Riya,Female,56,Jalna,Budget,Store_D,P323,Snacks_Item_8,Snacks,662,5,3310,UPI,Wednesday,2025-10-01
+C139,Sneha,Female,58,Nashik,Premium,Store_A,P559,Grocery_Item_14,Grocery,414,3,1242,Cash,Saturday,2025-09-27
+C169,Riya,Male,24,Aurangabad,Budget,Store_C,P289,Grocery_Item_43,Grocery,351,5,1755,Cash,Thursday,2025-09-18
+C123,Riya,Male,31,Aurangabad,Budget,Store_D,P773,Stationery_Item_48,Stationery,312,1,312,Card,Wednesday,2025-10-01
+C185,Sneha,Female,31,Aurangabad,Budget,Store_D,P702,Snacks_Item_24,Snacks,935,1,935,Wallet,Friday,2025-10-31
+C190,Vikram,Male,45,Nashik,Premium,Store_D,P149,Snacks_Item_40,Snacks,512,1,512,Wallet,Sunday,2025-11-09
+C170,Karan,Female,31,Nagpur,Budget,Store_D,P718,Electronics_Item_35,Electronics,689,4,2756,Card,Monday,2025-09-15
+C120,Karan,Male,60,Nagpur,Regular,Store_D,P135,Personal Care_Item_26,Personal Care,430,1,430,Card,Friday,2025-11-07
+C123,Arjun,Female,42,Jalna,Budget,Store_D,P395,Electronics_Item_50,Electronics,955,3,2865,Card,Sunday,2025-10-19
+C162,Raj,Female,54,Mumbai,Regular,Store_B,P834,Grocery_Item_44,Grocery,963,1,963,Wallet,Monday,2025-09-29
+C135,Vikram,Male,57,Nagpur,Regular,Store_A,P424,Snacks_Item_35,Snacks,564,1,564,Wallet,Saturday,2025-09-27
+C123,Riya,Female,39,Nagpur,Budget,Store_A,P664,Grocery_Item_10,Grocery,567,1,567,Cash,Sunday,2025-09-28
+C188,Isha,Female,30,Nashik,Premium,Store_C,P593,Snacks_Item_50,Snacks,916,3,2748,Wallet,Friday,2025-09-12
+C177,Mahima,Male,27,Jalna,Budget,Store_A,P819,Personal Care_Item_47,Personal Care,813,5,4065,Card,Tuesday,2025-10-21
+C152,Sneha,Female,28,Nashik,Budget,Store_B,P808,Beverages_Item_50,Beverages,138,1,138,Card,Friday,2025-11-07
+C122,Mahima,Female,37,Jalna,Budget,Store_A,P945,Beverages_Item_37,Beverages,479,3,1437,Card,Sunday,2025-09-14
+C180,Vikram,Female,55,Nagpur,Budget,Store_D,P789,Stationery_Item_25,Stationery,113,5,565,Card,Thursday,2025-11-06
+C112,Sneha,Female,49,Jalna,Budget,Store_C,P792,Electronics_Item_22,Electronics,195,1,195,Wallet,Wednesday,2025-10-15
+C138,Aarav,Male,32,Mumbai,Regular,Store_D,P318,Electronics_Item_34,Electronics,532,4,2128,Wallet,Monday,2025-10-20
+C158,Sneha,Male,36,Nashik,Regular,Store_C,P260,Stationery_Item_28,Stationery,473,2,946,Wallet,Monday,2025-11-03
+C127,Sneha,Female,37,Jalna,Premium,Store_D,P345,Personal Care_Item_2,Personal Care,820,3,2460,UPI,Wednesday,2025-10-15
+C176,Karan,Female,19,Nagpur,Regular,Store_A,P216,Grocery_Item_18,Grocery,492,3,1476,Wallet,Monday,2025-09-29
+C165,Isha,Male,24,Nagpur,Regular,Store_D,P443,Beverages_Item_24,Beverages,473,3,1419,UPI,Sunday,2025-09-14
+C137,Raj,Male,56,Aurangabad,Budget,Store_D,P607,Personal Care_Item_46,Personal Care,195,5,975,UPI,Friday,2025-10-10
+C156,Isha,Male,38,Nashik,Budget,Store_A,P838,Stationery_Item_9,Stationery,829,5,4145,Card,Wednesday,2025-10-15
+C114,Sneha,Male,58,Nashik,Budget,Store_A,P652,Electronics_Item_20,Electronics,725,1,725,Wallet,Sunday,2025-10-05
+C102,Aarav,Female,18,Nashik,Premium,Store_D,P249,Electronics_Item_35,Electronics,140,1,140,Card,Saturday,2025-09-13
+C188,Arjun,Male,60,Jalna,Budget,Store_A,P988,Electronics_Item_40,Electronics,96,1,96,Cash,Monday,2025-09-15
+C173,Neha,Female,37,Pune,Premium,Store_B,P486,Grocery_Item_10,Grocery,435,1,435,Cash,Saturday,2025-11-08
+C122,Riya,Male,45,Aurangabad,Budget,Store_D,P860,Personal Care_Item_28,Personal Care,211,3,633,Cash,Saturday,2025-09-27
+C109,Vikram,Male,30,Pune,Regular,Store_D,P502,Personal Care_Item_42,Personal Care,506,1,506,Cash,Wednesday,2025-10-22
+C127,Mahima,Female,30,Nagpur,Premium,Store_B,P398,Snacks_Item_11,Snacks,485,2,970,Cash,Monday,2025-09-15
+C129,Vikram,Female,54,Mumbai,Premium,Store_A,P968,Snacks_Item_20,Snacks,947,4,3788,Card,Thursday,2025-10-16
+C196,Vikram,Male,58,Pune,Regular,Store_D,P371,Personal Care_Item_16,Personal Care,985,4,3940,UPI,Thursday,2025-09-11
+C180,Vikram,Male,20,Pune,Budget,Store_C,P939,Electronics_Item_23,Electronics,356,4,1424,Card,Sunday,2025-09-21
+C133,Neha,Male,55,Mumbai,Budget,Store_A,P860,Beverages_Item_21,Beverages,580,1,580,Card,Tuesday,2025-10-14
+C173,Raj,Female,19,Nashik,Premium,Store_C,P694,Stationery_Item_44,Stationery,101,1,101,Card,Tuesday,2025-10-28
+C155,Arjun,Male,41,Aurangabad,Premium,Store_D,P975,Personal Care_Item_26,Personal Care,505,2,1010,Card,Monday,2025-11-03
+C117,Vikram,Female,52,Nagpur,Budget,Store_D,P157,Electronics_Item_23,Electronics,808,2,1616,UPI,Friday,2025-10-03
+C197,Aarav,Male,50,Pune,Budget,Store_A,P548,Personal Care_Item_3,Personal Care,623,3,1869,Card,Friday,2025-09-26
+C178,Raj,Male,37,Aurangabad,Premium,Store_A,P514,Snacks_Item_6,Snacks,177,1,177,Card,Wednesday,2025-09-24
+C102,Mahima,Female,32,Nagpur,Regular,Store_C,P482,Electronics_Item_16,Electronics,957,3,2871,Card,Sunday,2025-11-09
+C189,Vikram,Male,49,Aurangabad,Regular,Store_B,P722,Snacks_Item_16,Snacks,354,5,1770,Wallet,Sunday,2025-10-05
+C105,Riya,Male,21,Jalna,Regular,Store_A,P477,Stationery_Item_23,Stationery,737,3,2211,Cash,Saturday,2025-10-04
+C160,Arjun,Male,30,Mumbai,Regular,Store_D,P383,Snacks_Item_42,Snacks,927,2,1854,UPI,Wednesday,2025-11-05
+C189,Isha,Male,57,Pune,Budget,Store_C,P567,Snacks_Item_20,Snacks,744,5,3720,UPI,Monday,2025-10-27
+C166,Riya,Male,18,Aurangabad,Budget,Store_B,P339,Stationery_Item_32,Stationery,451,2,902,Cash,Friday,2025-09-12
+C194,Karan,Male,48,Jalna,Premium,Store_A,P680,Beverages_Item_27,Beverages,960,1,960,UPI,Sunday,2025-10-12
+C183,Arjun,Female,22,Aurangabad,Premium,Store_D,P378,Personal Care_Item_34,Personal Care,57,5,285,UPI,Friday,2025-10-03
+C175,Raj,Male,19,Nashik,Budget,Store_D,P530,Snacks_Item_16,Snacks,173,1,173,Card,Wednesday,2025-10-01
+C108,Riya,Male,19,Mumbai,Budget,Store_B,P372,Electronics_Item_35,Electronics,547,5,2735,Wallet,Saturday,2025-09-13
+C129,Mahima,Male,49,Pune,Premium,Store_B,P776,Beverages_Item_1,Beverages,237,4,948,Cash,Sunday,2025-09-21
+C139,Arjun,Male,55,Mumbai,Budget,Store_A,P981,Stationery_Item_12,Stationery,188,3,564,Cash,Friday,2025-10-10
+C127,Vikram,Male,22,Jalna,Premium,Store_A,P804,Personal Care_Item_35,Personal Care,730,1,730,Card,Monday,2025-11-10
+C117,Isha,Female,45,Aurangabad,Regular,Store_B,P494,Beverages_Item_7,Beverages,568,4,2272,Cash,Tuesday,2025-09-30
+C106,Neha,Female,48,Nagpur,Budget,Store_D,P379,Grocery_Item_7,Grocery,693,5,3465,Card,Sunday,2025-09-28
+C114,Sneha,Male,39,Jalna,Regular,Store_D,P592,Electronics_Item_32,Electronics,655,4,2620,UPI,Saturday,2025-11-01
+C141,Arjun,Male,55,Aurangabad,Regular,Store_C,P846,Stationery_Item_45,Stationery,471,4,1884,Wallet,Sunday,2025-09-28
+C196,Karan,Male,31,Nashik,Regular,Store_C,P952,Beverages_Item_32,Beverages,511,4,2044,Card,Saturday,2025-09-13
+C166,Isha,Male,18,Nashik,Premium,Store_B,P422,Grocery_Item_20,Grocery,578,4,2312,Card,Saturday,2025-11-08
+C124,Vikram,Female,39,Mumbai,Premium,Store_D,P345,Beverages_Item_9,Beverages,651,2,1302,Wallet,Sunday,2025-10-12
+C170,Karan,Female,28,Nagpur,Premium,Store_A,P682,Personal Care_Item_18,Personal Care,431,1,431,Wallet,Friday,2025-11-07
+C132,Vikram,Female,27,Aurangabad,Budget,Store_A,P377,Stationery_Item_15,Stationery,596,2,1192,UPI,Wednesday,2025-10-01
+C166,Vikram,Male,23,Aurangabad,Budget,Store_C,P726,Beverages_Item_12,Beverages,94,1,94,UPI,Friday,2025-09-26
+C131,Arjun,Female,32,Jalna,Budget,Store_C,P834,Electronics_Item_27,Electronics,305,4,1220,Cash,Friday,2025-10-31
+C101,Isha,Male,46,Mumbai,Regular,Store_B,P138,Beverages_Item_39,Beverages,78,2,156,Wallet,Tuesday,2025-10-14
+C115,Sneha,Female,46,Mumbai,Premium,Store_B,P434,Stationery_Item_9,Stationery,298,2,596,Cash,Wednesday,2025-09-24
+C111,Arjun,Female,34,Nagpur,Premium,Store_B,P853,Snacks_Item_4,Snacks,988,2,1976,UPI,Monday,2025-10-20
+C197,Sneha,Female,31,Jalna,Premium,Store_B,P743,Electronics_Item_7,Electronics,416,5,2080,Wallet,Tuesday,2025-10-07
+C137,Karan,Male,39,Mumbai,Budget,Store_B,P949,Stationery_Item_15,Stationery,865,5,4325,Cash,Sunday,2025-10-05
+C165,Arjun,Male,18,Pune,Premium,Store_B,P448,Stationery_Item_24,Stationery,493,1,493,UPI,Tuesday,2025-10-07
+C195,Neha,Male,43,Mumbai,Regular,Store_B,P728,Stationery_Item_11,Stationery,571,5,2855,Wallet,Sunday,2025-09-21
+C169,Aarav,Male,26,Jalna,Premium,Store_C,P897,Snacks_Item_41,Snacks,996,3,2988,Wallet,Thursday,2025-10-09
+C133,Vikram,Female,18,Nashik,Premium,Store_B,P783,Electronics_Item_8,Electronics,678,1,678,Card,Wednesday,2025-10-29
+C129,Riya,Female,21,Pune,Regular,Store_A,P117,Electronics_Item_5,Electronics,833,5,4165,UPI,Thursday,2025-10-23
+C142,Mahima,Male,38,Mumbai,Regular,Store_A,P474,Personal Care_Item_11,Personal Care,330,3,990,Cash,Tuesday,2025-10-07
+C161,Karan,Male,27,Aurangabad,Premium,Store_C,P770,Grocery_Item_25,Grocery,297,2,594,UPI,Friday,2025-10-03
+C148,Isha,Male,54,Nagpur,Premium,Store_D,P231,Stationery_Item_27,Stationery,188,3,564,Cash,Wednesday,2025-11-05
+C181,Riya,Male,23,Aurangabad,Regular,Store_B,P456,Electronics_Item_22,Electronics,553,3,1659,UPI,Tuesday,2025-09-23
+C156,Karan,Female,50,Pune,Premium,Store_A,P233,Grocery_Item_35,Grocery,534,1,534,Cash,Thursday,2025-09-11
+C158,Aarav,Female,48,Pune,Budget,Store_A,P317,Electronics_Item_15,Electronics,818,3,2454,UPI,Tuesday,2025-10-21
+C129,Neha,Female,39,Jalna,Premium,Store_B,P372,Snacks_Item_13,Snacks,185,4,740,Card,Tuesday,2025-10-07
+C189,Karan,Male,41,Aurangabad,Regular,Store_D,P253,Grocery_Item_46,Grocery,396,4,1584,Cash,Sunday,2025-09-21
+C103,Sneha,Male,50,Nagpur,Premium,Store_D,P464,Electronics_Item_45,Electronics,595,3,1785,UPI,Tuesday,2025-09-30
+C115,Isha,Male,42,Pune,Premium,Store_D,P981,Beverages_Item_35,Beverages,164,1,164,Card,Friday,2025-11-07
+C152,Raj,Female,23,Jalna,Budget,Store_B,P646,Snacks_Item_48,Snacks,175,1,175,Card,Thursday,2025-09-18
+C175,Isha,Female,54,Nagpur,Budget,Store_C,P470,Personal Care_Item_33,Personal Care,809,4,3236,Wallet,Tuesday,2025-10-28
+C152,Neha,Male,38,Jalna,Premium,Store_D,P444,Electronics_Item_45,Electronics,914,3,2742,UPI,Friday,2025-11-07
+C193,Karan,Male,39,Nagpur,Regular,Store_C,P760,Grocery_Item_8,Grocery,85,3,255,Wallet,Wednesday,2025-09-17
+C175,Sneha,Male,23,Jalna,Regular,Store_A,P293,Snacks_Item_3,Snacks,827,5,4135,Cash,Thursday,2025-09-18
+C169,Sneha,Male,60,Jalna,Budget,Store_A,P301,Snacks_Item_43,Snacks,235,3,705,Cash,Tuesday,2025-09-16
+C130,Aarav,Male,41,Nagpur,Regular,Store_C,P310,Snacks_Item_3,Snacks,941,1,941,Card,Wednesday,2025-10-08
+C116,Vikram,Female,36,Nagpur,Premium,Store_A,P348,Grocery_Item_47,Grocery,757,3,2271,Cash,Wednesday,2025-10-08
+C120,Karan,Male,40,Aurangabad,Premium,Store_A,P934,Grocery_Item_8,Grocery,340,2,680,Card,Sunday,2025-11-09
+C133,Sneha,Male,38,Mumbai,Budget,Store_C,P152,Snacks_Item_37,Snacks,603,1,603,UPI,Thursday,2025-10-30
+C107,Riya,Male,38,Mumbai,Budget,Store_A,P781,Personal Care_Item_17,Personal Care,735,5,3675,Card,Sunday,2025-09-28
+C100,Vikram,Male,41,Aurangabad,Budget,Store_C,P526,Stationery_Item_29,Stationery,561,4,2244,UPI,Thursday,2025-10-16
+C143,Vikram,Female,48,Pune,Budget,Store_A,P866,Personal Care_Item_37,Personal Care,502,4,2008,UPI,Friday,2025-09-12
+C104,Riya,Female,40,Nashik,Budget,Store_B,P595,Beverages_Item_25,Beverages,603,5,3015,UPI,Saturday,2025-11-08
+C137,Vikram,Male,39,Nashik,Premium,Store_C,P221,Grocery_Item_22,Grocery,370,2,740,UPI,Wednesday,2025-10-29
+C131,Riya,Female,41,Nashik,Regular,Store_D,P606,Grocery_Item_42,Grocery,828,5,4140,UPI,Saturday,2025-09-20
+C120,Arjun,Female,51,Aurangabad,Budget,Store_D,P430,Snacks_Item_22,Snacks,567,1,567,Wallet,Thursday,2025-09-18
+C130,Sneha,Male,22,Pune,Budget,Store_D,P123,Snacks_Item_43,Snacks,610,4,2440,Wallet,Monday,2025-11-10
+C131,Sneha,Male,28,Pune,Premium,Store_A,P292,Electronics_Item_26,Electronics,389,4,1556,Card,Sunday,2025-09-14
+C145,Isha,Female,29,Aurangabad,Regular,Store_A,P599,Beverages_Item_10,Beverages,326,2,652,Card,Sunday,2025-09-21
+C101,Vikram,Male,28,Mumbai,Regular,Store_D,P629,Stationery_Item_44,Stationery,61,4,244,Card,Sunday,2025-11-09
+C149,Isha,Male,50,Jalna,Budget,Store_A,P687,Personal Care_Item_23,Personal Care,367,2,734,Card,Wednesday,2025-10-01
+C184,Isha,Female,20,Jalna,Regular,Store_A,P428,Grocery_Item_9,Grocery,461,4,1844,Card,Saturday,2025-09-13
+C161,Neha,Female,21,Mumbai,Regular,Store_D,P291,Snacks_Item_4,Snacks,102,5,510,UPI,Wednesday,2025-09-24
+C179,Vikram,Male,47,Nagpur,Regular,Store_A,P348,Snacks_Item_38,Snacks,356,4,1424,UPI,Monday,2025-09-22
+C149,Sneha,Male,27,Pune,Regular,Store_D,P244,Electronics_Item_19,Electronics,248,2,496,UPI,Friday,2025-10-31
+C138,Mahima,Female,38,Aurangabad,Budget,Store_A,P114,Electronics_Item_50,Electronics,855,5,4275,Cash,Wednesday,2025-10-08
+C187,Vikram,Female,37,Nagpur,Budget,Store_C,P493,Stationery_Item_27,Stationery,645,3,1935,Card,Sunday,2025-09-28
+C179,Karan,Male,46,Nagpur,Budget,Store_B,P856,Grocery_Item_48,Grocery,809,5,4045,Card,Monday,2025-09-29
+C101,Arjun,Female,50,Nashik,Premium,Store_D,P644,Beverages_Item_37,Beverages,502,1,502,Card,Wednesday,2025-11-05
+C138,Neha,Female,21,Pune,Premium,Store_D,P406,Electronics_Item_2,Electronics,744,1,744,Wallet,Thursday,2025-09-25
+C199,Isha,Female,18,Jalna,Premium,Store_B,P770,Grocery_Item_12,Grocery,392,3,1176,Wallet,Monday,2025-10-06
+C100,Riya,Female,35,Mumbai,Premium,Store_D,P348,Stationery_Item_43,Stationery,773,3,2319,Wallet,Sunday,2025-09-28
+C111,Isha,Female,54,Nashik,Budget,Store_B,P216,Beverages_Item_35,Beverages,135,5,675,Cash,Saturday,2025-10-18
+C167,Mahima,Female,39,Mumbai,Budget,Store_D,P218,Snacks_Item_4,Snacks,454,4,1816,Cash,Monday,2025-09-15
+C123,Aarav,Female,27,Jalna,Budget,Store_D,P234,Grocery_Item_30,Grocery,707,5,3535,Cash,Thursday,2025-10-02
+C133,Neha,Female,55,Nashik,Budget,Store_C,P850,Stationery_Item_41,Stationery,423,5,2115,Cash,Wednesday,2025-10-15
+C135,Mahima,Female,35,Pune,Budget,Store_C,P758,Stationery_Item_31,Stationery,743,5,3715,Card,Sunday,2025-10-26
+C111,Raj,Male,21,Nashik,Premium,Store_B,P370,Personal Care_Item_26,Personal Care,675,2,1350,Cash,Tuesday,2025-10-14
+C131,Aarav,Female,57,Aurangabad,Regular,Store_B,P501,Electronics_Item_37,Electronics,858,1,858,Cash,Monday,2025-09-22
+C128,Arjun,Male,35,Mumbai,Regular,Store_D,P569,Stationery_Item_32,Stationery,551,3,1653,Cash,Wednesday,2025-10-08
+C144,Sneha,Male,31,Nagpur,Premium,Store_C,P374,Electronics_Item_31,Electronics,851,3,2553,Cash,Saturday,2025-09-20
+C136,Neha,Male,50,Nashik,Premium,Store_D,P249,Grocery_Item_18,Grocery,608,4,2432,Cash,Thursday,2025-09-18
+C137,Raj,Female,30,Pune,Budget,Store_A,P610,Beverages_Item_31,Beverages,174,5,870,Card,Sunday,2025-11-02
+C142,Karan,Female,60,Nagpur,Regular,Store_B,P222,Stationery_Item_8,Stationery,233,4,932,Card,Monday,2025-09-22
+C146,Vikram,Male,46,Aurangabad,Budget,Store_D,P461,Personal Care_Item_28,Personal Care,995,2,1990,Cash,Saturday,2025-10-11
+C137,Vikram,Female,49,Nagpur,Regular,Store_D,P592,Personal Care_Item_21,Personal Care,33,4,132,UPI,Tuesday,2025-09-30
+C183,Riya,Male,28,Pune,Budget,Store_B,P944,Stationery_Item_25,Stationery,154,5,770,Card,Monday,2025-10-06
+C198,Mahima,Female,47,Nagpur,Premium,Store_C,P158,Electronics_Item_34,Electronics,701,2,1402,UPI,Sunday,2025-09-21
+C123,Raj,Female,43,Pune,Regular,Store_B,P746,Electronics_Item_2,Electronics,762,2,1524,Card,Saturday,2025-10-18
+C123,Karan,Female,51,Aurangabad,Regular,Store_B,P897,Grocery_Item_17,Grocery,774,4,3096,Card,Tuesday,2025-10-07
+C176,Karan,Female,18,Aurangabad,Regular,Store_B,P558,Stationery_Item_30,Stationery,396,1,396,Cash,Thursday,2025-10-23
+C190,Karan,Male,42,Aurangabad,Budget,Store_D,P967,Beverages_Item_32,Beverages,35,4,140,Card,Wednesday,2025-10-22
+C158,Riya,Female,39,Mumbai,Premium,Store_C,P530,Beverages_Item_1,Beverages,418,4,1672,UPI,Thursday,2025-10-23
+C160,Aarav,Female,21,Nashik,Premium,Store_C,P190,Personal Care_Item_8,Personal Care,115,4,460,Wallet,Wednesday,2025-10-08
+C192,Vikram,Male,59,Nagpur,Budget,Store_A,P906,Snacks_Item_11,Snacks,513,1,513,Wallet,Saturday,2025-09-27
+C147,Neha,Female,51,Aurangabad,Regular,Store_C,P450,Stationery_Item_30,Stationery,945,2,1890,Card,Thursday,2025-10-30
+C101,Riya,Male,56,Aurangabad,Budget,Store_B,P775,Beverages_Item_37,Beverages,186,2,372,Cash,Thursday,2025-11-06
+C165,Sneha,Male,58,Mumbai,Regular,Store_A,P248,Snacks_Item_23,Snacks,253,2,506,UPI,Friday,2025-09-26
+C147,Aarav,Male,30,Pune,Premium,Store_A,P557,Snacks_Item_46,Snacks,438,2,876,Cash,Saturday,2025-11-08
+C173,Vikram,Male,28,Jalna,Premium,Store_A,P553,Electronics_Item_34,Electronics,101,3,303,Wallet,Monday,2025-11-03
+C199,Riya,Male,52,Nagpur,Regular,Store_A,P404,Stationery_Item_13,Stationery,793,4,3172,Wallet,Friday,2025-10-17
+C129,Aarav,Male,56,Jalna,Budget,Store_B,P283,Beverages_Item_12,Beverages,849,1,849,Cash,Wednesday,2025-10-22
+C149,Arjun,Female,26,Mumbai,Regular,Store_B,P164,Beverages_Item_22,Beverages,205,2,410,Cash,Friday,2025-09-19
+C130,Raj,Female,40,Jalna,Budget,Store_B,P511,Grocery_Item_1,Grocery,255,3,765,UPI,Sunday,2025-11-02
+C155,Arjun,Female,34,Mumbai,Budget,Store_C,P966,Grocery_Item_37,Grocery,901,4,3604,Cash,Saturday,2025-10-25
+C175,Neha,Female,33,Jalna,Budget,Store_D,P989,Stationery_Item_49,Stationery,739,2,1478,Wallet,Thursday,2025-10-02
+C125,Riya,Female,25,Mumbai,Regular,Store_C,P891,Grocery_Item_44,Grocery,110,4,440,Card,Tuesday,2025-10-28
+C155,Karan,Female,22,Pune,Premium,Store_D,P676,Stationery_Item_14,Stationery,530,3,1590,UPI,Saturday,2025-09-27
+C123,Neha,Female,18,Nagpur,Budget,Store_C,P560,Snacks_Item_7,Snacks,937,4,3748,Card,Tuesday,2025-10-07
+C136,Vikram,Male,28,Mumbai,Regular,Store_A,P223,Personal Care_Item_3,Personal Care,661,5,3305,Card,Tuesday,2025-09-23
+C102,Riya,Female,18,Aurangabad,Regular,Store_A,P301,Personal Care_Item_1,Personal Care,975,3,2925,Cash,Thursday,2025-11-06
+C187,Arjun,Male,59,Pune,Regular,Store_C,P600,Personal Care_Item_19,Personal Care,168,2,336,Cash,Monday,2025-10-27
+C156,Vikram,Female,56,Pune,Budget,Store_A,P507,Stationery_Item_21,Stationery,791,3,2373,Cash,Wednesday,2025-10-15
+C151,Karan,Male,34,Nagpur,Budget,Store_D,P459,Grocery_Item_29,Grocery,248,5,1240,Cash,Saturday,2025-10-18
+C149,Neha,Male,21,Jalna,Regular,Store_D,P103,Stationery_Item_22,Stationery,731,2,1462,Card,Thursday,2025-10-02
+C158,Vikram,Female,53,Pune,Regular,Store_B,P212,Personal Care_Item_47,Personal Care,373,2,746,UPI,Thursday,2025-09-25
+C118,Vikram,Male,54,Nashik,Premium,Store_C,P524,Beverages_Item_44,Beverages,233,1,233,Wallet,Friday,2025-10-24
+C109,Aarav,Male,37,Pune,Regular,Store_B,P979,Stationery_Item_26,Stationery,584,3,1752,UPI,Thursday,2025-10-23
+C169,Arjun,Female,46,Nashik,Regular,Store_D,P617,Snacks_Item_31,Snacks,29,1,29,Cash,Saturday,2025-09-20
+C110,Vikram,Female,18,Nashik,Premium,Store_B,P148,Stationery_Item_15,Stationery,262,3,786,Cash,Friday,2025-09-12
+C161,Aarav,Male,46,Pune,Regular,Store_C,P274,Personal Care_Item_18,Personal Care,529,4,2116,Wallet,Friday,2025-10-17
+C120,Sneha,Male,34,Aurangabad,Premium,Store_B,P880,Grocery_Item_6,Grocery,365,4,1460,Wallet,Monday,2025-11-10
+C187,Raj,Female,34,Jalna,Premium,Store_B,P200,Stationery_Item_39,Stationery,949,3,2847,UPI,Sunday,2025-09-28
+C180,Karan,Male,44,Nashik,Budget,Store_C,P417,Grocery_Item_24,Grocery,910,2,1820,UPI,Monday,2025-10-27
+C121,Raj,Male,56,Mumbai,Regular,Store_D,P432,Personal Care_Item_29,Personal Care,935,1,935,Card,Sunday,2025-11-02
+C109,Isha,Male,21,Nagpur,Budget,Store_B,P432,Electronics_Item_44,Electronics,487,1,487,UPI,Wednesday,2025-10-15
+C131,Isha,Male,46,Nagpur,Budget,Store_D,P114,Personal Care_Item_6,Personal Care,833,1,833,Card,Wednesday,2025-09-24
+C196,Raj,Male,19,Nashik,Budget,Store_D,P955,Grocery_Item_7,Grocery,318,5,1590,UPI,Tuesday,2025-09-30
+C152,Sneha,Male,26,Mumbai,Premium,Store_A,P517,Stationery_Item_50,Stationery,818,1,818,Wallet,Monday,2025-09-15
+C129,Neha,Female,51,Pune,Regular,Store_B,P746,Stationery_Item_7,Stationery,744,4,2976,Wallet,Friday,2025-10-03
+C187,Mahima,Female,56,Mumbai,Budget,Store_C,P959,Beverages_Item_9,Beverages,347,3,1041,Card,Saturday,2025-10-04
+C111,Mahima,Male,27,Aurangabad,Budget,Store_C,P432,Personal Care_Item_35,Personal Care,355,4,1420,Card,Saturday,2025-09-27
+C144,Sneha,Male,33,Pune,Budget,Store_D,P574,Snacks_Item_43,Snacks,319,4,1276,UPI,Friday,2025-10-10
+C185,Karan,Female,42,Pune,Regular,Store_D,P910,Grocery_Item_19,Grocery,549,1,549,Card,Tuesday,2025-10-28
+C174,Riya,Male,38,Pune,Regular,Store_C,P897,Grocery_Item_4,Grocery,463,4,1852,UPI,Saturday,2025-10-25
+C191,Neha,Female,58,Mumbai,Budget,Store_D,P555,Stationery_Item_49,Stationery,553,5,2765,Cash,Saturday,2025-09-20
+C178,Vikram,Female,21,Nashik,Regular,Store_C,P272,Stationery_Item_7,Stationery,222,1,222,UPI,Wednesday,2025-10-29
+C197,Sneha,Male,35,Nashik,Premium,Store_C,P768,Grocery_Item_8,Grocery,483,3,1449,Wallet,Tuesday,2025-09-16
+C184,Mahima,Female,50,Pune,Premium,Store_B,P920,Personal Care_Item_43,Personal Care,845,5,4225,Wallet,Monday,2025-09-29
+C138,Karan,Male,51,Jalna,Regular,Store_B,P160,Personal Care_Item_31,Personal Care,118,4,472,Cash,Thursday,2025-10-09
+C149,Mahima,Male,60,Jalna,Premium,Store_B,P172,Stationery_Item_24,Stationery,995,3,2985,Cash,Tuesday,2025-10-21
+C162,Mahima,Male,57,Pune,Premium,Store_B,P587,Snacks_Item_9,Snacks,163,2,326,UPI,Thursday,2025-10-02
+C142,Karan,Male,37,Aurangabad,Regular,Store_C,P876,Snacks_Item_21,Snacks,788,4,3152,Cash,Wednesday,2025-10-22
+C183,Karan,Male,25,Nagpur,Regular,Store_C,P527,Personal Care_Item_15,Personal Care,479,2,958,Wallet,Sunday,2025-10-12
+C191,Isha,Male,36,Mumbai,Regular,Store_C,P241,Personal Care_Item_44,Personal Care,76,2,152,Wallet,Saturday,2025-10-18
+C117,Neha,Female,25,Pune,Regular,Store_C,P337,Personal Care_Item_28,Personal Care,490,3,1470,UPI,Sunday,2025-11-09
+C123,Vikram,Female,20,Nashik,Budget,Store_D,P752,Grocery_Item_3,Grocery,482,3,1446,UPI,Friday,2025-10-31
+C194,Aarav,Female,55,Nashik,Budget,Store_A,P604,Personal Care_Item_27,Personal Care,923,3,2769,UPI,Thursday,2025-10-02
+C126,Arjun,Male,32,Nashik,Premium,Store_A,P381,Beverages_Item_18,Beverages,838,1,838,Card,Tuesday,2025-10-14
+C169,Mahima,Female,28,Aurangabad,Budget,Store_C,P697,Electronics_Item_50,Electronics,389,2,778,Wallet,Sunday,2025-11-02
+C194,Aarav,Female,31,Pune,Regular,Store_C,P351,Electronics_Item_4,Electronics,722,3,2166,Cash,Wednesday,2025-10-15
+C126,Raj,Female,45,Nashik,Budget,Store_A,P227,Snacks_Item_1,Snacks,255,4,1020,Wallet,Friday,2025-09-26
+C124,Vikram,Female,49,Nashik,Premium,Store_D,P801,Snacks_Item_19,Snacks,655,3,1965,UPI,Saturday,2025-09-13
+C177,Raj,Female,34,Nashik,Premium,Store_C,P454,Snacks_Item_27,Snacks,281,3,843,Wallet,Sunday,2025-11-02
+C164,Raj,Male,50,Nashik,Premium,Store_B,P653,Grocery_Item_45,Grocery,586,3,1758,Wallet,Thursday,2025-10-16
+C100,Aarav,Female,24,Nashik,Budget,Store_C,P885,Grocery_Item_44,Grocery,371,2,742,UPI,Thursday,2025-10-23
+C169,Arjun,Male,47,Aurangabad,Regular,Store_B,P827,Grocery_Item_39,Grocery,334,5,1670,Cash,Thursday,2025-11-06
+C124,Riya,Male,53,Nagpur,Budget,Store_A,P199,Electronics_Item_36,Electronics,760,1,760,UPI,Friday,2025-10-03
+C113,Neha,Male,44,Aurangabad,Premium,Store_B,P374,Grocery_Item_17,Grocery,885,4,3540,Cash,Tuesday,2025-10-07
+C155,Riya,Female,56,Mumbai,Premium,Store_B,P348,Snacks_Item_47,Snacks,917,1,917,UPI,Tuesday,2025-10-14
+C129,Neha,Male,21,Nagpur,Premium,Store_C,P530,Snacks_Item_50,Snacks,933,4,3732,Wallet,Wednesday,2025-09-17
+C118,Riya,Male,50,Nagpur,Budget,Store_C,P987,Stationery_Item_7,Stationery,618,4,2472,Wallet,Friday,2025-10-03
+C108,Sneha,Male,59,Nashik,Regular,Store_D,P585,Grocery_Item_28,Grocery,272,3,816,Wallet,Tuesday,2025-10-07
+C130,Arjun,Male,26,Aurangabad,Budget,Store_A,P198,Electronics_Item_16,Electronics,922,5,4610,Cash,Sunday,2025-11-09
+C192,Neha,Male,53,Nagpur,Budget,Store_C,P903,Beverages_Item_45,Beverages,444,3,1332,UPI,Thursday,2025-10-23
+C136,Mahima,Male,35,Nagpur,Premium,Store_C,P115,Beverages_Item_24,Beverages,822,5,4110,Card,Saturday,2025-09-27
+C132,Riya,Female,52,Aurangabad,Budget,Store_B,P915,Grocery_Item_43,Grocery,206,3,618,UPI,Saturday,2025-11-08
+C110,Neha,Male,40,Pune,Regular,Store_A,P819,Beverages_Item_31,Beverages,391,2,782,Wallet,Monday,2025-09-22
+C190,Vikram,Male,33,Mumbai,Regular,Store_D,P743,Electronics_Item_50,Electronics,31,3,93,Wallet,Saturday,2025-11-08
+C150,Vikram,Female,38,Pune,Premium,Store_C,P189,Personal Care_Item_2,Personal Care,291,5,1455,UPI,Monday,2025-10-27
+C147,Raj,Female,45,Aurangabad,Regular,Store_D,P719,Electronics_Item_24,Electronics,452,5,2260,Wallet,Thursday,2025-10-09
+C134,Karan,Female,34,Pune,Premium,Store_A,P437,Beverages_Item_22,Beverages,135,4,540,UPI,Friday,2025-09-26
+C150,Arjun,Female,40,Aurangabad,Budget,Store_D,P330,Grocery_Item_10,Grocery,118,5,590,Wallet,Sunday,2025-10-12
+C106,Isha,Male,43,Pune,Regular,Store_B,P891,Beverages_Item_36,Beverages,511,3,1533,Card,Wednesday,2025-09-24
+C173,Vikram,Female,24,Nashik,Regular,Store_C,P644,Personal Care_Item_17,Personal Care,187,4,748,Wallet,Saturday,2025-11-01
+C135,Isha,Male,28,Mumbai,Premium,Store_D,P559,Stationery_Item_14,Stationery,560,3,1680,Wallet,Saturday,2025-11-01
+C106,Vikram,Female,22,Mumbai,Budget,Store_A,P838,Electronics_Item_3,Electronics,913,1,913,UPI,Sunday,2025-11-02
+C166,Vikram,Male,25,Aurangabad,Budget,Store_A,P760,Stationery_Item_42,Stationery,504,5,2520,UPI,Thursday,2025-11-06
+C112,Riya,Male,29,Nagpur,Premium,Store_D,P314,Electronics_Item_24,Electronics,880,2,1760,Wallet,Wednesday,2025-10-08
+C114,Aarav,Male,51,Nagpur,Premium,Store_D,P498,Personal Care_Item_16,Personal Care,525,5,2625,Wallet,Tuesday,2025-10-07
+C180,Neha,Female,24,Nagpur,Budget,Store_C,P206,Electronics_Item_13,Electronics,426,5,2130,Card,Wednesday,2025-09-24
+C100,Arjun,Male,52,Mumbai,Budget,Store_D,P473,Personal Care_Item_45,Personal Care,921,2,1842,Cash,Thursday,2025-09-18
+C188,Mahima,Male,47,Nashik,Premium,Store_D,P879,Grocery_Item_22,Grocery,919,5,4595,Card,Friday,2025-10-24
+C196,Aarav,Female,56,Nashik,Premium,Store_C,P603,Snacks_Item_19,Snacks,993,1,993,Wallet,Sunday,2025-11-09
+C103,Neha,Female,33,Nagpur,Budget,Store_B,P241,Snacks_Item_31,Snacks,114,3,342,Wallet,Wednesday,2025-10-08
+C128,Raj,Male,24,Jalna,Premium,Store_A,P436,Beverages_Item_9,Beverages,375,2,750,UPI,Sunday,2025-10-19
+C181,Karan,Female,59,Jalna,Budget,Store_B,P451,Grocery_Item_38,Grocery,999,1,999,Card,Thursday,2025-10-23
+C124,Arjun,Female,60,Aurangabad,Regular,Store_A,P413,Snacks_Item_39,Snacks,331,3,993,UPI,Thursday,2025-09-25
+C124,Vikram,Female,34,Pune,Premium,Store_A,P685,Personal Care_Item_36,Personal Care,110,3,330,Card,Saturday,2025-10-25
+C108,Arjun,Male,57,Mumbai,Regular,Store_C,P457,Beverages_Item_9,Beverages,230,1,230,Wallet,Monday,2025-10-06
+C154,Riya,Male,21,Aurangabad,Regular,Store_D,P190,Personal Care_Item_6,Personal Care,644,4,2576,Wallet,Sunday,2025-11-02
+C170,Raj,Male,40,Jalna,Premium,Store_A,P484,Grocery_Item_7,Grocery,369,5,1845,Wallet,Wednesday,2025-10-01
+C148,Raj,Female,25,Mumbai,Regular,Store_B,P883,Personal Care_Item_25,Personal Care,350,4,1400,Cash,Sunday,2025-09-21
+C193,Aarav,Male,60,Jalna,Premium,Store_A,P833,Personal Care_Item_40,Personal Care,617,3,1851,UPI,Friday,2025-10-03
+C157,Raj,Female,28,Nashik,Budget,Store_B,P497,Grocery_Item_29,Grocery,990,3,2970,Wallet,Saturday,2025-11-08
+C189,Neha,Male,39,Nashik,Premium,Store_B,P277,Stationery_Item_1,Stationery,896,4,3584,Card,Wednesday,2025-09-24
+C107,Riya,Female,27,Nashik,Premium,Store_B,P252,Grocery_Item_22,Grocery,875,1,875,Wallet,Sunday,2025-10-05
+C169,Mahima,Male,52,Nashik,Regular,Store_B,P425,Snacks_Item_17,Snacks,466,1,466,Cash,Wednesday,2025-10-22
+C186,Karan,Female,26,Pune,Budget,Store_A,P241,Grocery_Item_33,Grocery,570,2,1140,Cash,Monday,2025-10-27
+C155,Karan,Female,44,Nagpur,Budget,Store_A,P531,Personal Care_Item_4,Personal Care,900,1,900,UPI,Wednesday,2025-10-01
+C182,Sneha,Male,21,Jalna,Premium,Store_D,P239,Stationery_Item_20,Stationery,193,4,772,UPI,Friday,2025-09-19
+C115,Isha,Male,45,Pune,Premium,Store_A,P368,Beverages_Item_45,Beverages,336,1,336,UPI,Tuesday,2025-11-04
+C111,Neha,Male,60,Aurangabad,Regular,Store_A,P673,Personal Care_Item_50,Personal Care,996,5,4980,Cash,Monday,2025-10-13
+C144,Raj,Male,34,Jalna,Premium,Store_A,P486,Personal Care_Item_24,Personal Care,992,2,1984,Cash,Sunday,2025-09-21
+C158,Arjun,Male,55,Jalna,Premium,Store_A,P909,Stationery_Item_1,Stationery,600,5,3000,UPI,Sunday,2025-09-28
+C173,Neha,Female,39,Nagpur,Budget,Store_C,P952,Beverages_Item_43,Beverages,450,5,2250,Card,Monday,2025-09-29
+C187,Mahima,Female,49,Mumbai,Budget,Store_C,P988,Stationery_Item_6,Stationery,301,4,1204,Cash,Saturday,2025-11-08
+C100,Aarav,Female,21,Nagpur,Budget,Store_B,P509,Snacks_Item_19,Snacks,521,5,2605,UPI,Thursday,2025-10-23
+C183,Vikram,Male,37,Aurangabad,Regular,Store_C,P552,Grocery_Item_35,Grocery,682,3,2046,Cash,Friday,2025-09-12
+C185,Arjun,Female,40,Aurangabad,Budget,Store_A,P379,Beverages_Item_17,Beverages,249,1,249,Cash,Thursday,2025-10-30
+C191,Isha,Male,59,Pune,Premium,Store_B,P946,Beverages_Item_11,Beverages,578,2,1156,Cash,Friday,2025-10-31
+C175,Arjun,Male,27,Nashik,Premium,Store_C,P854,Electronics_Item_21,Electronics,598,3,1794,UPI,Sunday,2025-09-21
+C177,Arjun,Male,25,Pune,Budget,Store_C,P168,Stationery_Item_13,Stationery,735,5,3675,UPI,Thursday,2025-09-11
+C172,Mahima,Female,46,Nashik,Regular,Store_B,P666,Stationery_Item_15,Stationery,694,2,1388,Card,Saturday,2025-11-08
+C124,Sneha,Female,22,Mumbai,Regular,Store_C,P452,Personal Care_Item_12,Personal Care,984,4,3936,UPI,Sunday,2025-09-14
+C109,Riya,Male,38,Mumbai,Regular,Store_B,P880,Beverages_Item_44,Beverages,618,2,1236,Cash,Thursday,2025-11-06
+C148,Sneha,Male,35,Mumbai,Regular,Store_C,P275,Personal Care_Item_8,Personal Care,838,4,3352,Cash,Thursday,2025-10-09
+C152,Mahima,Male,19,Jalna,Regular,Store_D,P118,Beverages_Item_36,Beverages,121,1,121,Card,Saturday,2025-09-27
+C158,Isha,Female,29,Nashik,Regular,Store_D,P611,Personal Care_Item_46,Personal Care,306,1,306,UPI,Friday,2025-10-17
+C122,Vikram,Female,44,Nagpur,Budget,Store_D,P714,Stationery_Item_42,Stationery,105,3,315,UPI,Monday,2025-11-03
+C180,Aarav,Female,26,Aurangabad,Regular,Store_A,P463,Personal Care_Item_2,Personal Care,400,3,1200,Card,Monday,2025-09-29
+C127,Raj,Female,39,Mumbai,Premium,Store_A,P754,Snacks_Item_35,Snacks,208,5,1040,Wallet,Wednesday,2025-09-24
+C118,Raj,Male,39,Mumbai,Regular,Store_B,P210,Snacks_Item_42,Snacks,599,1,599,Card,Thursday,2025-10-30
+C101,Riya,Female,27,Nashik,Regular,Store_C,P470,Electronics_Item_10,Electronics,759,5,3795,Cash,Thursday,2025-10-16
+C110,Neha,Male,51,Pune,Budget,Store_D,P561,Grocery_Item_47,Grocery,551,3,1653,UPI,Wednesday,2025-09-24
+C153,Karan,Male,35,Nashik,Premium,Store_B,P232,Snacks_Item_28,Snacks,725,4,2900,Card,Thursday,2025-10-30
+C197,Riya,Male,44,Jalna,Regular,Store_D,P364,Personal Care_Item_3,Personal Care,109,3,327,Wallet,Friday,2025-09-26
+C100,Sneha,Female,55,Mumbai,Budget,Store_A,P739,Snacks_Item_41,Snacks,164,2,328,UPI,Saturday,2025-09-20
+C131,Mahima,Male,59,Pune,Regular,Store_C,P704,Personal Care_Item_32,Personal Care,442,1,442,Cash,Sunday,2025-09-14
+C147,Aarav,Male,43,Nagpur,Premium,Store_B,P231,Beverages_Item_40,Beverages,829,4,3316,UPI,Saturday,2025-11-01
+C161,Aarav,Female,39,Aurangabad,Regular,Store_C,P444,Stationery_Item_2,Stationery,318,5,1590,Card,Thursday,2025-10-02
+C109,Aarav,Female,53,Nashik,Premium,Store_B,P906,Electronics_Item_11,Electronics,178,5,890,UPI,Thursday,2025-10-30
+C178,Riya,Male,48,Aurangabad,Budget,Store_C,P563,Stationery_Item_7,Stationery,539,1,539,Wallet,Friday,2025-11-07
+C189,Mahima,Female,46,Nashik,Regular,Store_C,P963,Grocery_Item_20,Grocery,180,2,360,Wallet,Monday,2025-10-27
+C118,Neha,Female,50,Pune,Premium,Store_B,P991,Electronics_Item_20,Electronics,445,1,445,Card,Tuesday,2025-10-21
+C144,Karan,Female,44,Nashik,Regular,Store_A,P125,Electronics_Item_38,Electronics,633,5,3165,UPI,Thursday,2025-10-30
+C142,Karan,Female,18,Jalna,Regular,Store_B,P100,Personal Care_Item_12,Personal Care,139,2,278,UPI,Saturday,2025-11-01
+C194,Isha,Male,50,Nashik,Regular,Store_D,P761,Stationery_Item_4,Stationery,521,4,2084,UPI,Saturday,2025-10-04
+C198,Riya,Female,19,Mumbai,Premium,Store_D,P583,Electronics_Item_18,Electronics,74,2,148,UPI,Friday,2025-10-24
+C199,Raj,Male,45,Nagpur,Budget,Store_C,P501,Beverages_Item_44,Beverages,708,4,2832,UPI,Saturday,2025-09-20
+C175,Karan,Female,58,Mumbai,Regular,Store_B,P529,Grocery_Item_40,Grocery,102,5,510,UPI,Thursday,2025-10-09
+C195,Aarav,Male,30,Nagpur,Budget,Store_B,P230,Grocery_Item_34,Grocery,636,2,1272,Cash,Saturday,2025-10-04
+C188,Mahima,Female,31,Jalna,Regular,Store_A,P305,Snacks_Item_18,Snacks,149,2,298,Cash,Saturday,2025-09-20
+C105,Vikram,Female,39,Nashik,Budget,Store_B,P761,Grocery_Item_24,Grocery,724,3,2172,Wallet,Sunday,2025-10-05
+C136,Vikram,Female,47,Pune,Regular,Store_B,P636,Personal Care_Item_34,Personal Care,202,1,202,Card,Sunday,2025-10-26
+C145,Arjun,Male,34,Mumbai,Premium,Store_C,P847,Electronics_Item_31,Electronics,353,1,353,Wallet,Wednesday,2025-10-01
+C133,Vikram,Male,41,Nagpur,Regular,Store_B,P183,Grocery_Item_17,Grocery,945,5,4725,Cash,Thursday,2025-11-06
+C169,Neha,Female,18,Nashik,Budget,Store_B,P768,Snacks_Item_49,Snacks,871,2,1742,Cash,Friday,2025-09-26
+C126,Riya,Male,35,Pune,Premium,Store_D,P554,Grocery_Item_49,Grocery,178,1,178,UPI,Saturday,2025-11-08
+C134,Neha,Female,45,Aurangabad,Budget,Store_C,P256,Stationery_Item_29,Stationery,726,2,1452,Wallet,Thursday,2025-11-06
+C133,Arjun,Male,39,Mumbai,Budget,Store_A,P357,Grocery_Item_22,Grocery,178,1,178,Wallet,Thursday,2025-10-16
+C153,Karan,Male,35,Nagpur,Premium,Store_D,P451,Beverages_Item_1,Beverages,31,2,62,UPI,Friday,2025-09-12
+C113,Arjun,Male,55,Nagpur,Regular,Store_A,P685,Electronics_Item_7,Electronics,115,3,345,Cash,Saturday,2025-11-08
+C100,Karan,Male,35,Nagpur,Budget,Store_D,P584,Electronics_Item_20,Electronics,608,1,608,Cash,Monday,2025-10-13
+C191,Neha,Female,43,Nashik,Premium,Store_C,P715,Beverages_Item_3,Beverages,693,4,2772,Card,Wednesday,2025-10-08
+C163,Vikram,Female,25,Pune,Premium,Store_A,P457,Electronics_Item_3,Electronics,746,4,2984,Card,Wednesday,2025-10-01
+C190,Arjun,Male,34,Nagpur,Regular,Store_A,P788,Beverages_Item_24,Beverages,386,5,1930,Cash,Monday,2025-09-15
+C118,Arjun,Male,35,Aurangabad,Premium,Store_C,P232,Snacks_Item_23,Snacks,720,4,2880,Card,Wednesday,2025-10-08
+C125,Neha,Male,25,Nagpur,Premium,Store_C,P457,Personal Care_Item_5,Personal Care,89,3,267,Wallet,Friday,2025-10-24
+C160,Aarav,Female,37,Aurangabad,Premium,Store_D,P397,Electronics_Item_47,Electronics,195,3,585,Cash,Wednesday,2025-10-08
+C146,Neha,Female,19,Nagpur,Premium,Store_B,P591,Grocery_Item_30,Grocery,232,5,1160,Cash,Friday,2025-09-26
+C100,Aarav,Female,33,Nashik,Premium,Store_B,P546,Beverages_Item_27,Beverages,164,3,492,UPI,Friday,2025-10-17
+C143,Raj,Male,25,Mumbai,Regular,Store_D,P596,Stationery_Item_24,Stationery,379,4,1516,Card,Tuesday,2025-11-04
+C199,Aarav,Male,41,Mumbai,Regular,Store_B,P772,Snacks_Item_19,Snacks,680,4,2720,Cash,Friday,2025-10-17
+C107,Raj,Female,40,Pune,Premium,Store_C,P931,Snacks_Item_35,Snacks,758,1,758,Card,Tuesday,2025-10-28
+C189,Riya,Male,42,Aurangabad,Premium,Store_A,P275,Stationery_Item_46,Stationery,97,4,388,Cash,Tuesday,2025-10-07
+C190,Neha,Male,41,Jalna,Premium,Store_C,P710,Beverages_Item_48,Beverages,465,4,1860,UPI,Tuesday,2025-10-21
+C114,Vikram,Male,46,Nashik,Regular,Store_C,P372,Personal Care_Item_46,Personal Care,585,3,1755,Card,Wednesday,2025-10-01
+C144,Karan,Male,41,Pune,Regular,Store_A,P535,Stationery_Item_37,Stationery,365,2,730,Cash,Sunday,2025-11-02
+C126,Mahima,Female,52,Nagpur,Premium,Store_A,P229,Personal Care_Item_6,Personal Care,804,5,4020,Wallet,Friday,2025-09-26
+C158,Isha,Male,40,Nashik,Budget,Store_A,P675,Stationery_Item_6,Stationery,592,3,1776,Card,Saturday,2025-09-20
+C151,Aarav,Male,44,Nashik,Budget,Store_C,P310,Snacks_Item_2,Snacks,186,1,186,Card,Tuesday,2025-11-04
+C101,Sneha,Female,39,Nagpur,Regular,Store_B,P983,Snacks_Item_4,Snacks,703,2,1406,UPI,Monday,2025-10-20
+C108,Isha,Male,27,Pune,Regular,Store_C,P429,Snacks_Item_7,Snacks,480,3,1440,Cash,Saturday,2025-11-01
+C179,Sneha,Male,59,Aurangabad,Regular,Store_C,P174,Stationery_Item_11,Stationery,529,5,2645,Cash,Saturday,2025-11-01
+C135,Raj,Female,42,Jalna,Premium,Store_A,P451,Personal Care_Item_50,Personal Care,912,4,3648,Cash,Friday,2025-10-24
+C137,Aarav,Female,31,Aurangabad,Regular,Store_A,P623,Beverages_Item_38,Beverages,742,5,3710,UPI,Saturday,2025-09-20
+C132,Mahima,Female,39,Aurangabad,Budget,Store_C,P643,Personal Care_Item_22,Personal Care,367,5,1835,UPI,Friday,2025-10-03
+C148,Vikram,Male,40,Jalna,Premium,Store_D,P654,Beverages_Item_46,Beverages,562,1,562,UPI,Friday,2025-09-19
+C179,Riya,Female,52,Jalna,Premium,Store_B,P708,Personal Care_Item_42,Personal Care,507,3,1521,Cash,Monday,2025-10-06
+C198,Vikram,Female,38,Aurangabad,Budget,Store_B,P803,Stationery_Item_49,Stationery,889,3,2667,Cash,Saturday,2025-10-18
+C157,Karan,Male,36,Aurangabad,Budget,Store_B,P734,Electronics_Item_47,Electronics,178,1,178,UPI,Saturday,2025-10-04
+C175,Arjun,Male,18,Pune,Regular,Store_A,P173,Grocery_Item_4,Grocery,139,2,278,Card,Monday,2025-10-27
+C141,Sneha,Female,50,Aurangabad,Budget,Store_C,P814,Beverages_Item_35,Beverages,71,1,71,Wallet,Friday,2025-09-19
+C168,Karan,Male,24,Aurangabad,Budget,Store_D,P739,Grocery_Item_13,Grocery,59,5,295,Cash,Friday,2025-10-17
+C111,Mahima,Female,53,Pune,Premium,Store_D,P360,Grocery_Item_9,Grocery,575,4,2300,Cash,Thursday,2025-10-30
+C142,Mahima,Male,20,Mumbai,Budget,Store_C,P589,Snacks_Item_1,Snacks,231,4,924,Card,Thursday,2025-11-06
+C139,Sneha,Female,54,Mumbai,Regular,Store_B,P143,Snacks_Item_23,Snacks,380,4,1520,Wallet,Tuesday,2025-09-30
+C194,Mahima,Female,44,Jalna,Regular,Store_C,P739,Personal Care_Item_21,Personal Care,589,4,2356,Card,Sunday,2025-10-26
+C149,Raj,Female,40,Nashik,Budget,Store_B,P936,Personal Care_Item_31,Personal Care,222,1,222,Card,Monday,2025-11-03
+C125,Vikram,Male,23,Aurangabad,Regular,Store_A,P844,Personal Care_Item_33,Personal Care,74,5,370,UPI,Wednesday,2025-10-08
+C152,Mahima,Male,41,Jalna,Budget,Store_B,P579,Beverages_Item_42,Beverages,559,5,2795,Wallet,Wednesday,2025-10-15
+C153,Riya,Female,39,Nagpur,Regular,Store_C,P810,Snacks_Item_6,Snacks,737,5,3685,Card,Tuesday,2025-10-14
+C143,Sneha,Male,56,Aurangabad,Regular,Store_B,P792,Personal Care_Item_9,Personal Care,512,2,1024,Cash,Tuesday,2025-10-28
+C172,Isha,Female,43,Nagpur,Regular,Store_B,P149,Beverages_Item_34,Beverages,749,4,2996,Cash,Friday,2025-10-24
+C120,Raj,Female,59,Jalna,Premium,Store_B,P624,Electronics_Item_29,Electronics,336,3,1008,Wallet,Monday,2025-11-03
+C135,Arjun,Female,48,Mumbai,Regular,Store_A,P182,Snacks_Item_49,Snacks,607,1,607,UPI,Sunday,2025-11-09
+C170,Vikram,Male,19,Pune,Budget,Store_C,P363,Electronics_Item_39,Electronics,593,5,2965,Wallet,Thursday,2025-09-11
+C167,Raj,Male,38,Nashik,Regular,Store_A,P688,Stationery_Item_25,Stationery,770,3,2310,UPI,Thursday,2025-09-11
+C191,Riya,Male,55,Aurangabad,Regular,Store_D,P375,Grocery_Item_47,Grocery,592,5,2960,Cash,Saturday,2025-11-01
+C113,Raj,Female,55,Aurangabad,Regular,Store_D,P825,Grocery_Item_38,Grocery,808,3,2424,UPI,Saturday,2025-11-08
+C164,Raj,Male,37,Mumbai,Premium,Store_A,P880,Grocery_Item_45,Grocery,298,2,596,UPI,Saturday,2025-10-25
+C141,Raj,Female,49,Nagpur,Budget,Store_B,P728,Grocery_Item_42,Grocery,373,2,746,Wallet,Friday,2025-10-17
+C194,Aarav,Female,57,Nagpur,Premium,Store_C,P296,Personal Care_Item_33,Personal Care,847,1,847,Cash,Friday,2025-10-31
+C185,Arjun,Male,56,Nashik,Regular,Store_C,P947,Grocery_Item_15,Grocery,406,4,1624,Cash,Saturday,2025-10-25
+C110,Mahima,Male,47,Mumbai,Premium,Store_D,P983,Snacks_Item_18,Snacks,516,4,2064,UPI,Wednesday,2025-10-15
+C111,Vikram,Male,22,Nagpur,Premium,Store_A,P446,Electronics_Item_34,Electronics,876,3,2628,Card,Friday,2025-11-07
+C187,Arjun,Female,35,Nagpur,Budget,Store_A,P515,Electronics_Item_18,Electronics,81,5,405,Cash,Tuesday,2025-09-16
+C198,Vikram,Female,24,Jalna,Regular,Store_A,P820,Grocery_Item_2,Grocery,764,2,1528,Card,Wednesday,2025-10-15
+C124,Isha,Female,38,Mumbai,Regular,Store_A,P635,Snacks_Item_37,Snacks,688,5,3440,Wallet,Sunday,2025-09-28
+C197,Raj,Male,30,Nagpur,Budget,Store_A,P126,Grocery_Item_12,Grocery,163,4,652,UPI,Sunday,2025-10-05
+C175,Riya,Female,59,Mumbai,Premium,Store_A,P867,Beverages_Item_49,Beverages,467,1,467,Card,Saturday,2025-10-04
+C155,Neha,Male,42,Pune,Budget,Store_D,P337,Stationery_Item_16,Stationery,94,4,376,UPI,Thursday,2025-10-02
+C143,Arjun,Male,51,Jalna,Regular,Store_C,P859,Grocery_Item_30,Grocery,48,1,48,Card,Friday,2025-10-03
+C133,Vikram,Male,44,Mumbai,Premium,Store_C,P718,Snacks_Item_18,Snacks,874,3,2622,Wallet,Friday,2025-10-24
+C128,Vikram,Male,59,Mumbai,Budget,Store_B,P988,Electronics_Item_45,Electronics,533,4,2132,Cash,Tuesday,2025-09-30
+C166,Neha,Female,25,Aurangabad,Premium,Store_C,P834,Electronics_Item_24,Electronics,35,5,175,Cash,Thursday,2025-10-16
+C192,Mahima,Female,51,Jalna,Premium,Store_A,P406,Personal Care_Item_33,Personal Care,979,4,3916,Wallet,Saturday,2025-09-13
+C128,Isha,Male,37,Nagpur,Regular,Store_B,P569,Beverages_Item_25,Beverages,582,5,2910,Cash,Tuesday,2025-10-07
